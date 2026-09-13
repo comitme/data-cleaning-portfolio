@@ -1,0 +1,13 @@
+[project]
+name = "data-cleaning-portfolio"
+version = "1.0.0"
+description = "Portfolio: cleaning and merging messy Excel/CSV data with pandas"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.0", "openpyxl>=3.1", "matplotlib>=3.7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
