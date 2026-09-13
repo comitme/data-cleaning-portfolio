@@ -1,0 +1,382 @@
+Data;Kod produktu;Nazwa towaru;Iloœæ;Cena jedn.;Wartoœæ
+01.01.2025;AKC-004;French press 1 l;1;79,00 z³;79,00 z³
+02.01.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+03.01.2025;akc-006;Waga kuchenna z timerem;2;99,00 z³;198,00 z³
+04.01.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;80,75 z³;80,75 z³
+04.01.2025;akc-007;Czajnik z gêsi¹ szyjk¹ 1 l;1;149,00 z³;149,00 z³
+04.01.2025;AKC-003;M³ynek rêczny stalowy;1;189,00 z³;189,00 z³
+04.01.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;2;42,00 z³;84,00 z³
+06.01.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+07.01.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+07.01.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+07.01.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+08.01.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+08.01.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+09.01.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+09.01.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;3;89,00 z³;267,00 z³
+09.01.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+09.01.2025;her-005;Yerba Mate Klasyczna 500 g;3;32,00 z³;96,00 z³
+10.01.2025;kaw-007;Kapsu³ki Lungo 30 szt.;2;30,60 z³;61,20 z³
+10.01.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;4;39,00 z³;156,00 z³
+11.01.2025;her-005;Yerba Mate Klasyczna 500 g;6;32,00 z³;192,00 z³
+11.01.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+11.01.2025;KAW-004;Kawa mielona Espresso Blend 500 g;2;49,00 z³;98,00 z³
+11.01.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+11.01.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+12.01.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+12.01.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;4;89,00 z³;356,00 z³
+12.01.2025;KAW-007;Kapsu³ki Lungo 30 szt.;3;36,00 z³;108,00 z³
+13.01.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+13.01.2025;her-002;Herbata zielona Sencha 100 g;4;29,00 z³;116,00 z³
+14.01.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+15.01.2025;her-001;Herbata czarna Assam 100 g;3;20,40 z³;61,20 z³
+15.01.2025;her-005;Yerba Mate Klasyczna 500 g;2;27,20 z³;54,40 z³
+15.01.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;3;95,00 z³;285,00 z³
+15.01.2025;akc-005;Kubek termiczny 350 ml;6;59,00 z³;354,00 z³
+15.01.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;3;84,15 z³;252,45 z³
+16.01.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+17.01.2025;HER-002;Herbata zielona Sencha 100 g;4;29,00 z³;116,00 z³
+17.01.2025;akc-002;Filtry papierowe V60 100 szt.;1;25,00 z³;25,00 z³
+17.01.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+17.01.2025;kaw-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+17.01.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;41,65 z³;41,65 z³
+18.01.2025;HER-001;Herbata czarna Assam 100 g;2;24,00 z³;48,00 z³
+18.01.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;1;34,00 z³;34,00 z³
+18.01.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;2;75,65 z³;151,30 z³
+19.01.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+19.01.2025;kaw-007;Kapsu³ki Lungo 30 szt.;6;36,00 z³;216,00 z³
+19.01.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+20.01.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;3;95,00 z³;285,00 z³
+21.01.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;3;28,90 z³;86,70 z³
+21.01.2025;HER-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+23.01.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;2;99,00 z³;198,00 z³
+23.01.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+24.01.2025;her-001;Herbata czarna Assam 100 g;2;24,00 z³;48,00 z³
+24.01.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;1;16,15 z³;16,15 z³
+24.01.2025;KAW-004;Kawa mielona Espresso Blend 500 g;2;49,00 z³;98,00 z³
+25.01.2025;HER-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+25.01.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+25.01.2025;HER-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+26.01.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;2;19,00 z³;38,00 z³
+26.01.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+26.01.2025;her-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+27.01.2025;HER-006;Matcha ceremonialna 30 g;3;69,00 z³;207,00 z³
+27.01.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+28.01.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;3;99,00 z³;297,00 z³
+28.01.2025;akc-005;Kubek termiczny 350 ml;3;59,00 z³;177,00 z³
+29.01.2025;kaw-004;Kawa mielona Espresso Blend 500 g;2;41,65 z³;83,30 z³
+29.01.2025;akc-002;Filtry papierowe V60 100 szt.;2;25,00 z³;50,00 z³
+29.01.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;84,15 z³;84,15 z³
+30.01.2025;AKC-005;Kubek termiczny 350 ml;1;59,00 z³;59,00 z³
+30.01.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;2;19,00 z³;38,00 z³
+31.01.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;2;99,00 z³;198,00 z³
+01.02.2025;her-006;Matcha ceremonialna 30 g;2;58,65 z³;117,30 z³
+01.02.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;6;19,00 z³;114,00 z³
+02.02.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+03.02.2025;KAW-007;Kapsu³ki Lungo 30 szt.;3;30,60 z³;91,80 z³
+03.02.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+03.02.2025;her-006;Matcha ceremonialna 30 g;2;58,65 z³;117,30 z³
+03.02.2025;her-006;Matcha ceremonialna 30 g;3;69,00 z³;207,00 z³
+03.02.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+04.02.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+04.02.2025;KAW-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+04.02.2025;her-005;Yerba Mate Klasyczna 500 g;2;32,00 z³;64,00 z³
+04.02.2025;AKC-001;Drip V60 ceramiczny;1;119,00 z³;119,00 z³
+05.02.2025;AKC-050;Produkt wycofany;2;55,00 z³;110,00 z³
+06.02.2025;KAW-004;Kawa mielona Espresso Blend 500 g;2;49,00 z³;98,00 z³
+06.02.2025;HER-005;Yerba Mate Klasyczna 500 g;4;32,00 z³;128,00 z³
+07.02.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+07.02.2025;akc-001;Drip V60 ceramiczny;1;119,00 z³;119,00 z³
+08.02.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+08.02.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;1;16,15 z³;16,15 z³
+08.02.2025;akc-007;Czajnik z gêsi¹ szyjk¹ 1 l;1;149,00 z³;149,00 z³
+10.02.2025;her-001;Herbata czarna Assam 100 g;1;24,00 z³;24,00 z³
+10.02.2025;kaw-004;Kawa mielona Espresso Blend 500 g;2;49,00 z³;98,00 z³
+11.02.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+11.02.2025;HER-001;Herbata czarna Assam 100 g;1;24,00 z³;24,00 z³
+11.02.2025;her-002;Herbata zielona Sencha 100 g;1;24,65 z³;24,65 z³
+11.02.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+11.02.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+11.02.2025;her-002;Herbata zielona Sencha 100 g;2;29,00 z³;58,00 z³
+12.02.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;2;89,00 z³;178,00 z³
+12.02.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+14.02.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;41,65 z³;41,65 z³
+14.02.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;2;84,15 z³;168,30 z³
+15.02.2025;her-002;Herbata zielona Sencha 100 g;2;29,00 z³;58,00 z³
+16.02.2025;HER-001;Herbata czarna Assam 100 g;4;24,00 z³;96,00 z³
+16.02.2025;kaw-099;Produkt wycofany;2;55,00 z³;110,00 z³
+17.02.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+18.02.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;1;19,00 z³;19,00 z³
+19.02.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+19.02.2025;HER-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+20.02.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+20.02.2025;kaw-007;Kapsu³ki Lungo 30 szt.;4;36,00 z³;144,00 z³
+20.02.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;1;19,00 z³;19,00 z³
+21.02.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+21.02.2025;akc-003;M³ynek rêczny stalowy;1;189,00 z³;189,00 z³
+21.02.2025;HER-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+21.02.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+22.02.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+22.02.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+22.02.2025;kaw-099;Produkt wycofany;1;55,00 z³;55,00 z³
+23.02.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;3;16,15 z³;48,45 z³
+23.02.2025;akc-006;Waga kuchenna z timerem;2;99,00 z³;198,00 z³
+23.02.2025;her-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+24.02.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;2;39,00 z³;78,00 z³
+24.02.2025;akc-002;Filtry papierowe V60 100 szt.;2;25,00 z³;50,00 z³
+24.02.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+25.02.2025;HER-003;Herbata bia³a Pai Mu Tan 50 g;1;34,00 z³;34,00 z³
+25.02.2025;HER-006;Matcha ceremonialna 30 g;3;69,00 z³;207,00 z³
+26.02.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;1;28,90 z³;28,90 z³
+26.02.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;3;19,00 z³;57,00 z³
+27.02.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;3;39,00 z³;117,00 z³
+27.02.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+27.02.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+28.02.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+28.02.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+28.02.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;4;39,00 z³;156,00 z³
+28.02.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+01.03.2025;her-001;Herbata czarna Assam 100 g;3;24,00 z³;72,00 z³
+01.03.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+02.03.2025;akc-004;French press 1 l;1;79,00 z³;79,00 z³
+03.03.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;2;19,00 z³;38,00 z³
+03.03.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+03.03.2025;HER-002;Herbata zielona Sencha 100 g;2;24,65 z³;49,30 z³
+03.03.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+03.03.2025;HER-002;Herbata zielona Sencha 100 g;3;24,65 z³;73,95 z³
+03.03.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+03.03.2025;her-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+03.03.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;30,60 z³;30,60 z³
+04.03.2025;her-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+04.03.2025;her-006;Matcha ceremonialna 30 g;2;58,65 z³;117,30 z³
+05.03.2025;akc-005;Kubek termiczny 350 ml;3;50,15 z³;150,45 z³
+06.03.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+06.03.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;4;34,00 z³;136,00 z³
+07.03.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;4;39,00 z³;156,00 z³
+08.03.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+08.03.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;2;42,00 z³;84,00 z³
+09.03.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+09.03.2025;HER-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+10.03.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;75,65 z³;75,65 z³
+10.03.2025;kaw-099;Produkt wycofany;1;55,00 z³;55,00 z³
+10.03.2025;kaw-004;Kawa mielona Espresso Blend 500 g;6;49,00 z³;294,00 z³
+11.03.2025;akc-001;Drip V60 ceramiczny;1;119,00 z³;119,00 z³
+11.03.2025;AKC-004;French press 1 l;1;79,00 z³;79,00 z³
+12.03.2025;akc-007;Czajnik z gêsi¹ szyjk¹ 1 l;1;149,00 z³;149,00 z³
+12.03.2025;HER-003;Herbata bia³a Pai Mu Tan 50 g;3;34,00 z³;102,00 z³
+12.03.2025;her-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+13.03.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+14.03.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;3;89,00 z³;267,00 z³
+14.03.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+16.03.2025;her-002;Herbata zielona Sencha 100 g;2;29,00 z³;58,00 z³
+16.03.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;3;89,00 z³;267,00 z³
+18.03.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;2;99,00 z³;198,00 z³
+18.03.2025;kaw-004;Kawa mielona Espresso Blend 500 g;3;49,00 z³;147,00 z³
+18.03.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;2;19,00 z³;38,00 z³
+18.03.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+19.03.2025;AKC-007;Czajnik z gêsi¹ szyjk¹ 1 l;2;149,00 z³;298,00 z³
+19.03.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;1;16,15 z³;16,15 z³
+19.03.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;3;19,00 z³;57,00 z³
+19.03.2025;kaw-004;Kawa mielona Espresso Blend 500 g;2;49,00 z³;98,00 z³
+20.03.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+22.03.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;1;33,15 z³;33,15 z³
+23.03.2025;HER-003;Herbata bia³a Pai Mu Tan 50 g;1;34,00 z³;34,00 z³
+24.03.2025;her-005;Yerba Mate Klasyczna 500 g;4;32,00 z³;128,00 z³
+24.03.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+24.03.2025;kaw-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+24.03.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+25.03.2025;HER-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+25.03.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+25.03.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+26.03.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+26.03.2025;kaw-004;Kawa mielona Espresso Blend 500 g;2;49,00 z³;98,00 z³
+27.03.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+27.03.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;75,65 z³;75,65 z³
+28.03.2025;AKC-001;Drip V60 ceramiczny;2;119,00 z³;238,00 z³
+29.03.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;1;16,15 z³;16,15 z³
+29.03.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+29.03.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+29.03.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+29.03.2025;kaw-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+30.03.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+31.03.2025;her-001;Herbata czarna Assam 100 g;1;24,00 z³;24,00 z³
+01.04.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;84,15 z³;84,15 z³
+01.04.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;2;89,00 z³;178,00 z³
+02.04.2025;KAW-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+03.04.2025;HER-001;Herbata czarna Assam 100 g;6;24,00 z³;144,00 z³
+04.04.2025;AKC-001;Drip V60 ceramiczny;1;119,00 z³;119,00 z³
+05.04.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+05.04.2025;her-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+06.04.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;1;34,00 z³;34,00 z³
+08.04.2025;her-001;Herbata czarna Assam 100 g;1;24,00 z³;24,00 z³
+08.04.2025;AKC-006;Waga kuchenna z timerem;4;99,00 z³;396,00 z³
+08.04.2025;HER-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+08.04.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+09.04.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+09.04.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;6;95,00 z³;570,00 z³
+10.04.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+10.04.2025;her-006;Matcha ceremonialna 30 g;3;69,00 z³;207,00 z³
+10.04.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+10.04.2025;HER-001;Herbata czarna Assam 100 g;3;24,00 z³;72,00 z³
+11.04.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+11.04.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+11.04.2025;her-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+11.04.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;2;19,00 z³;38,00 z³
+12.04.2025;KAW-004;Kawa mielona Espresso Blend 500 g;2;49,00 z³;98,00 z³
+12.04.2025;akc-006;Waga kuchenna z timerem;1;84,15 z³;84,15 z³
+12.04.2025;her-002;Herbata zielona Sencha 100 g;3;29,00 z³;87,00 z³
+13.04.2025;AKC-003;M³ynek rêczny stalowy;1;189,00 z³;189,00 z³
+14.04.2025;akc-004;French press 1 l;1;79,00 z³;79,00 z³
+14.04.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+14.04.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+15.04.2025;HER-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+15.04.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;1;19,00 z³;19,00 z³
+15.04.2025;kaw-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+16.04.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;1;34,00 z³;34,00 z³
+16.04.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+16.04.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;1;34,00 z³;34,00 z³
+17.04.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;80,75 z³;80,75 z³
+18.04.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+19.04.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+19.04.2025;her-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+20.04.2025;her-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+20.04.2025;akc-003;M³ynek rêczny stalowy;1;189,00 z³;189,00 z³
+20.04.2025;KAW-099;Produkt wycofany;1;55,00 z³;55,00 z³
+20.04.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+21.04.2025;HER-003;Herbata bia³a Pai Mu Tan 50 g;3;28,90 z³;86,70 z³
+21.04.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;33,15 z³;33,15 z³
+22.04.2025;HER-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+22.04.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+22.04.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;2;89,00 z³;178,00 z³
+23.04.2025;HER-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+23.04.2025;her-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+23.04.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+23.04.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+23.04.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+24.04.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+24.04.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;3;95,00 z³;285,00 z³
+25.04.2025;HER-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+25.04.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;2;19,00 z³;38,00 z³
+26.04.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+28.04.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+28.04.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+28.04.2025;her-005;Yerba Mate Klasyczna 500 g;3;27,20 z³;81,60 z³
+28.04.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;2;42,00 z³;84,00 z³
+28.04.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+29.04.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;2;39,00 z³;78,00 z³
+29.04.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;4;95,00 z³;380,00 z³
+30.04.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;30,60 z³;30,60 z³
+01.05.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+01.05.2025;akc-007;Czajnik z gêsi¹ szyjk¹ 1 l;1;149,00 z³;149,00 z³
+02.05.2025;HER-006;Matcha ceremonialna 30 g;2;69,00 z³;138,00 z³
+02.05.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;80,75 z³;161,50 z³
+03.05.2025;her-004;Herbata owocowa Malina-¯urawina 100 g;2;19,00 z³;38,00 z³
+03.05.2025;her-006;Matcha ceremonialna 30 g;2;69,00 z³;138,00 z³
+03.05.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+03.05.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+04.05.2025;AKC-001;Drip V60 ceramiczny;6;119,00 z³;714,00 z³
+04.05.2025;akc-006;Waga kuchenna z timerem;2;99,00 z³;198,00 z³
+04.05.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;4;99,00 z³;396,00 z³
+05.05.2025;akc-002;Filtry papierowe V60 100 szt.;1;25,00 z³;25,00 z³
+06.05.2025;HER-003;Herbata bia³a Pai Mu Tan 50 g;2;34,00 z³;68,00 z³
+06.05.2025;akc-005;Kubek termiczny 350 ml;1;59,00 z³;59,00 z³
+06.05.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+07.05.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;3;39,00 z³;117,00 z³
+07.05.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+07.05.2025;HER-004;Herbata owocowa Malina-¯urawina 100 g;3;19,00 z³;57,00 z³
+07.05.2025;KAW-007;Kapsu³ki Lungo 30 szt.;4;36,00 z³;144,00 z³
+08.05.2025;akc-002;Filtry papierowe V60 100 szt.;1;25,00 z³;25,00 z³
+08.05.2025;HER-006;Matcha ceremonialna 30 g;2;69,00 z³;138,00 z³
+08.05.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;3;39,00 z³;117,00 z³
+09.05.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;3;99,00 z³;297,00 z³
+11.05.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;80,75 z³;80,75 z³
+12.05.2025;akc-005;Kubek termiczny 350 ml;4;59,00 z³;236,00 z³
+12.05.2025;her-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+13.05.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;3;34,00 z³;102,00 z³
+15.05.2025;akc-004;French press 1 l;2;79,00 z³;158,00 z³
+16.05.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;1;95,00 z³;95,00 z³
+17.05.2025;her-006;Matcha ceremonialna 30 g;6;69,00 z³;414,00 z³
+17.05.2025;akc-001;Drip V60 ceramiczny;4;101,15 z³;404,60 z³
+17.05.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+18.05.2025;AKC-003;M³ynek rêczny stalowy;2;189,00 z³;378,00 z³
+18.05.2025;kaw-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+20.05.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+21.05.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;2;39,00 z³;78,00 z³
+21.05.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;2;39,00 z³;78,00 z³
+21.05.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;6;99,00 z³;594,00 z³
+21.05.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;6;42,00 z³;252,00 z³
+21.05.2025;her-002;Herbata zielona Sencha 100 g;2;29,00 z³;58,00 z³
+23.05.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;1;28,90 z³;28,90 z³
+25.05.2025;KAW-004;Kawa mielona Espresso Blend 500 g;6;49,00 z³;294,00 z³
+25.05.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+26.05.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+26.05.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+26.05.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+27.05.2025;kaw-007;Kapsu³ki Lungo 30 szt.;2;36,00 z³;72,00 z³
+27.05.2025;HER-002;Herbata zielona Sencha 100 g;1;29,00 z³;29,00 z³
+28.05.2025;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;1;42,00 z³;42,00 z³
+28.05.2025;HER-003;Herbata bia³a Pai Mu Tan 50 g;1;34,00 z³;34,00 z³
+28.05.2025;akc-007;Czajnik z gêsi¹ szyjk¹ 1 l;2;149,00 z³;298,00 z³
+29.05.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+31.05.2025;her-006;Matcha ceremonialna 30 g;3;69,00 z³;207,00 z³
+31.05.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;4;95,00 z³;380,00 z³
+01.06.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;4;39,00 z³;156,00 z³
+04.06.2025;akc-003;M³ynek rêczny stalowy;1;189,00 z³;189,00 z³
+04.06.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;30,60 z³;30,60 z³
+04.06.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;3;95,00 z³;285,00 z³
+04.06.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;3;95,00 z³;285,00 z³
+05.06.2025;her-001;Herbata czarna Assam 100 g;1;24,00 z³;24,00 z³
+06.06.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+06.06.2025;KAW-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+06.06.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+07.06.2025;HER-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+07.06.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;2;34,00 z³;68,00 z³
+08.06.2025;her-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+08.06.2025;AKC-003;M³ynek rêczny stalowy;1;189,00 z³;189,00 z³
+08.06.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+08.06.2025;HER-005;Yerba Mate Klasyczna 500 g;2;32,00 z³;64,00 z³
+08.06.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+09.06.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+09.06.2025;KAW-099;Produkt wycofany;1;46,75 z³;46,75 z³
+10.06.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;2;75,65 z³;151,30 z³
+10.06.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+11.06.2025;AKC-004;French press 1 l;1;79,00 z³;79,00 z³
+11.06.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;84,15 z³;84,15 z³
+12.06.2025;akc-050;Produkt wycofany;2;55,00 z³;110,00 z³
+14.06.2025;her-001;Herbata czarna Assam 100 g;1;24,00 z³;24,00 z³
+14.06.2025;AKC-005;Kubek termiczny 350 ml;2;59,00 z³;118,00 z³
+15.06.2025;HER-006;Matcha ceremonialna 30 g;2;69,00 z³;138,00 z³
+15.06.2025;HER-002;Herbata zielona Sencha 100 g;2;29,00 z³;58,00 z³
+15.06.2025;kaw-006;Kawa ziarnista Gwatemala Antigua 1 kg;1;99,00 z³;99,00 z³
+15.06.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;3;42,00 z³;126,00 z³
+15.06.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+15.06.2025;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;2;99,00 z³;198,00 z³
+16.06.2025;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;3;89,00 z³;267,00 z³
+16.06.2025;her-003;Herbata bia³a Pai Mu Tan 50 g;2;34,00 z³;68,00 z³
+17.06.2025;kaw-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;2;42,00 z³;84,00 z³
+17.06.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+17.06.2025;kaw-001;Kawa ziarnista Brazylia Santos 1 kg;1;89,00 z³;89,00 z³
+18.06.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+18.06.2025;AKC-007;Czajnik z gêsi¹ szyjk¹ 1 l;1;149,00 z³;149,00 z³
+18.06.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+19.06.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+19.06.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+19.06.2025;kaw-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+22.06.2025;HER-005;Yerba Mate Klasyczna 500 g;2;32,00 z³;64,00 z³
+22.06.2025;HER-005;Yerba Mate Klasyczna 500 g;1;32,00 z³;32,00 z³
+22.06.2025;kaw-007;Kapsu³ki Lungo 30 szt.;1;36,00 z³;36,00 z³
+23.06.2025;her-006;Matcha ceremonialna 30 g;2;69,00 z³;138,00 z³
+24.06.2025;her-005;Yerba Mate Klasyczna 500 g;2;32,00 z³;64,00 z³
+24.06.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;2;39,00 z³;78,00 z³
+24.06.2025;KAW-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+24.06.2025;akc-002;Filtry papierowe V60 100 szt.;1;25,00 z³;25,00 z³
+25.06.2025;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;2;95,00 z³;190,00 z³
+25.06.2025;her-006;Matcha ceremonialna 30 g;1;69,00 z³;69,00 z³
+26.06.2025;AKC-007;Czajnik z gêsi¹ szyjk¹ 1 l;3;149,00 z³;447,00 z³
+27.06.2025;HER-001;Herbata czarna Assam 100 g;1;24,00 z³;24,00 z³
+27.06.2025;kaw-003;Kawa ziarnista Kolumbia Supremo 1 kg;6;95,00 z³;570,00 z³
+28.06.2025;kaw-007;Kapsu³ki Lungo 30 szt.;3;36,00 z³;108,00 z³
+28.06.2025;kaw-005;Kawa bezkofeinowa Meksyk 250 g;1;39,00 z³;39,00 z³
+29.06.2025;KAW-004;Kawa mielona Espresso Blend 500 g;1;49,00 z³;49,00 z³
+30.06.2025;kaw-004;Kawa mielona Espresso Blend 500 g;4;49,00 z³;196,00 z³
+RAZEM;;;;;40 147,75 z³

@@ -1,0 +1,1201 @@
+﻿data;miesiac;oddzial;nr_transakcji;sku;nazwa_produktu;kategoria;ilosc;cena_jedn;cena_katalogowa;rabat;wartosc_brutto
+2025-01-01;2025-01;Gdańsk;GDA-0133;HER-006;Matcha ceremonialna 30 g;Herbata;1;58,65;69,0;tak;58,65
+2025-01-01;2025-01;Gdańsk;GDA-0207;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-01-01;2025-01;Gdańsk;GDA-0275;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-01-01;2025-01;Kraków;;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-01-01;2025-01;Warszawa;WAW/2025/00043;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-01-01;2025-01;Warszawa;WAW/2025/00089;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;59,0;59,0;nie;59,0
+2025-01-01;2025-01;Warszawa;WAW/2025/00116;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-01-01;2025-01;Warszawa;WAW/2025/00237;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-01;2025-01;Warszawa;WAW/2025/00468;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;28,9;34,0;tak;28,9
+2025-01-01;2025-01;Warszawa;WAW/2025/00507;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;4;19,0;19,0;nie;76,0
+2025-01-02;2025-01;Gdańsk;GDA-0032;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;3;42,0;42,0;nie;126,0
+2025-01-02;2025-01;Gdańsk;GDA-0170;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-01-02;2025-01;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-02;2025-01;Warszawa;WAW/2025/00242;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-02;2025-01;Warszawa;WAW/2025/00251;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-01-02;2025-01;Warszawa;WAW/2025/00286;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;2;25,0;25,0;nie;50,0
+2025-01-02;2025-01;Warszawa;WAW/2025/00320;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-01-03;2025-01;Gdańsk;GDA-0008;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;6;42,0;42,0;nie;252,0
+2025-01-03;2025-01;Gdańsk;GDA-0156;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-03;2025-01;Kraków;;AKC-006;Waga kuchenna z timerem;Akcesoria;2;99,0;99,0;nie;198,0
+2025-01-03;2025-01;Warszawa;WAW/2025/00171;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-01-03;2025-01;Warszawa;WAW/2025/00235;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-01-03;2025-01;Warszawa;WAW/2025/00344;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-03;2025-01;Warszawa;WAW/2025/00365;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;84,15;99,0;tak;252,45
+2025-01-04;2025-01;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;80,75;95,0;tak;80,75
+2025-01-04;2025-01;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-01-04;2025-01;Kraków;;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-01-04;2025-01;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-01-04;2025-01;Warszawa;WAW/2025/00233;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-01-04;2025-01;Warszawa;WAW/2025/00284;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-05;2025-01;Gdańsk;GDA-0244;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;4;89,0;89,0;nie;356,0
+2025-01-05;2025-01;Warszawa;WAW/2025/00081;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-01-05;2025-01;Warszawa;WAW/2025/00296;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-05;2025-01;Warszawa;WAW/2025/00421;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;39,0;39,0;nie;117,0
+2025-01-06;2025-01;Gdańsk;GDA-0011;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-01-06;2025-01;Gdańsk;GDA-0047;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-01-06;2025-01;Gdańsk;GDA-0054;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-01-06;2025-01;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-01-06;2025-01;Warszawa;WAW/2025/00132;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-07;2025-01;Gdańsk;GDA-0003;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;84,15;99,0;tak;84,15
+2025-01-07;2025-01;Gdańsk;GDA-0035;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-07;2025-01;Gdańsk;GDA-0101;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-07;2025-01;Gdańsk;GDA-0103;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-01-07;2025-01;Gdańsk;GDA-0127;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-07;2025-01;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-07;2025-01;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-07;2025-01;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-07;2025-01;Warszawa;WAW/2025/00393;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-08;2025-01;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-08;2025-01;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-01-09;2025-01;Gdańsk;GDA-0076;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-01-09;2025-01;Gdańsk;GDA-0142;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-09;2025-01;Gdańsk;GDA-0157;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;80,75;95,0;tak;161,5
+2025-01-09;2025-01;Gdańsk;GDA-0188;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-01-09;2025-01;Gdańsk;GDA-0278;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-09;2025-01;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-09;2025-01;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-01-09;2025-01;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-01-09;2025-01;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;3;32,0;32,0;nie;96,0
+2025-01-09;2025-01;Warszawa;WAW/2025/00137;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;6;19,0;19,0;nie;114,0
+2025-01-09;2025-01;Warszawa;WAW/2025/00190;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;30,6;36,0;tak;30,6
+2025-01-09;2025-01;Warszawa;WAW/2025/00275;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-01-09;2025-01;Warszawa;WAW/2025/00349;KAW-099;;Brak w katalogu;2;55,0;;nie;110,0
+2025-01-09;2025-01;Warszawa;WAW/2025/00376;HER-006;Matcha ceremonialna 30 g;Herbata;4;69,0;69,0;nie;276,0
+2025-01-09;2025-01;Warszawa;WAW/2025/00429;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-01-10;2025-01;Gdańsk;GDA-0160;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-10;2025-01;Gdańsk;GDA-0164;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-10;2025-01;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;30,6;36,0;tak;61,2
+2025-01-10;2025-01;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-01-10;2025-01;Warszawa;WAW/2025/00188;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-01-10;2025-01;Warszawa;WAW/2025/00220;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-10;2025-01;Warszawa;WAW/2025/00244;AKC-001;Drip V60 ceramiczny;Akcesoria;4;119,0;119,0;nie;476,0
+2025-01-10;2025-01;Warszawa;WAW/2025/00375;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-01-11;2025-01;Gdańsk;GDA-0241;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-01-11;2025-01;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;6;32,0;32,0;nie;192,0
+2025-01-11;2025-01;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-11;2025-01;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-01-11;2025-01;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-11;2025-01;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-01-11;2025-01;Warszawa;WAW/2025/00142;KAW-099;;Brak w katalogu;4;55,0;;nie;220,0
+2025-01-11;2025-01;Warszawa;WAW/2025/00340;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-01-11;2025-01;Warszawa;WAW/2025/00360;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;6;42,0;42,0;nie;252,0
+2025-01-12;2025-01;Gdańsk;GDA-0064;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;4;19,0;19,0;nie;76,0
+2025-01-12;2025-01;Gdańsk;GDA-0289;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-01-12;2025-01;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-12;2025-01;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;4;89,0;89,0;nie;356,0
+2025-01-12;2025-01;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-01-12;2025-01;Warszawa;WAW/2025/00078;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-01-12;2025-01;Warszawa;WAW/2025/00106;HER-002;Herbata zielona Sencha 100 g;Herbata;1;24,65;29,0;tak;24,65
+2025-01-12;2025-01;Warszawa;WAW/2025/00323;AKC-003;Młynek ręczny stalowy;Akcesoria;6;189,0;189,0;nie;1134,0
+2025-01-12;2025-01;Warszawa;WAW/2025/00418;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-01-13;2025-01;Gdańsk;GDA-0055;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-13;2025-01;Gdańsk;GDA-0111;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-01-13;2025-01;Gdańsk;GDA-0193;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;4;49,0;49,0;nie;196,0
+2025-01-13;2025-01;Gdańsk;GDA-0283;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-13;2025-01;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-13;2025-01;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;4;29,0;29,0;nie;116,0
+2025-01-13;2025-01;Warszawa;WAW/2025/00079;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-01-14;2025-01;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-01-14;2025-01;Warszawa;WAW/2025/00193;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-15;2025-01;Gdańsk;GDA-0005;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-15;2025-01;Gdańsk;GDA-0108;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-15;2025-01;Gdańsk;GDA-0117;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-01-15;2025-01;Gdańsk;GDA-0123;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-01-15;2025-01;Gdańsk;GDA-0293;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-01-15;2025-01;Gdańsk;GDA-0295;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-15;2025-01;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;3;20,4;24,0;tak;61,2
+2025-01-15;2025-01;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;27,2;32,0;tak;54,4
+2025-01-15;2025-01;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-01-15;2025-01;Kraków;;AKC-005;Kubek termiczny 350 ml;Akcesoria;6;59,0;59,0;nie;354,0
+2025-01-15;2025-01;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;84,15;99,0;tak;252,45
+2025-01-15;2025-01;Warszawa;WAW/2025/00155;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-15;2025-01;Warszawa;WAW/2025/00238;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-01-15;2025-01;Warszawa;WAW/2025/00364;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-15;2025-01;Warszawa;WAW/2025/00383;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;41,65;49,0;tak;41,65
+2025-01-16;2025-01;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-01-16;2025-01;Warszawa;WAW/2025/00016;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-01-16;2025-01;Warszawa;WAW/2025/00355;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-01-17;2025-01;Gdańsk;GDA-0081;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-17;2025-01;Gdańsk;GDA-0218;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-17;2025-01;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;4;29,0;29,0;nie;116,0
+2025-01-17;2025-01;Kraków;;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-01-17;2025-01;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-17;2025-01;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-01-17;2025-01;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;41,65;49,0;tak;41,65
+2025-01-17;2025-01;Warszawa;WAW/2025/00059;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-01-17;2025-01;Warszawa;WAW/2025/00165;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-01-17;2025-01;Warszawa;WAW/2025/00174;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-17;2025-01;Warszawa;WAW/2025/00181;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-01-17;2025-01;Warszawa;WAW/2025/00366;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-01-17;2025-01;Warszawa;WAW/2025/00377;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-01-18;2025-01;Gdańsk;GDA-0020;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-18;2025-01;Gdańsk;GDA-0189;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-18;2025-01;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-01-18;2025-01;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-01-18;2025-01;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;75,65;89,0;tak;151,3
+2025-01-18;2025-01;Warszawa;WAW/2025/00015;AKC-004;French press 1 l;Akcesoria;2;79,0;79,0;nie;158,0
+2025-01-18;2025-01;Warszawa;WAW/2025/00199;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;6;99,0;99,0;nie;594,0
+2025-01-18;2025-01;Warszawa;WAW/2025/00459;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-18;2025-01;Warszawa;WAW/2025/00480;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-19;2025-01;Gdańsk;GDA-0027;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;33,15;39,0;tak;33,15
+2025-01-19;2025-01;Gdańsk;GDA-0094;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-01-19;2025-01;Gdańsk;GDA-0249;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-19;2025-01;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-01-19;2025-01;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;6;36,0;36,0;nie;216,0
+2025-01-19;2025-01;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-19;2025-01;Warszawa;WAW/2025/00012;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-19;2025-01;Warszawa;WAW/2025/00075;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-01-20;2025-01;Gdańsk;GDA-0128;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;41,65;49,0;tak;83,3
+2025-01-20;2025-01;Gdańsk;GDA-0290;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-01-20;2025-01;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-01-20;2025-01;Warszawa;WAW/2025/00113;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;4;42,0;42,0;nie;168,0
+2025-01-20;2025-01;Warszawa;WAW/2025/00120;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-20;2025-01;Warszawa;WAW/2025/00185;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-20;2025-01;Warszawa;WAW/2025/00322;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-20;2025-01;Warszawa;WAW/2025/00463;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-01-21;2025-01;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;28,9;34,0;tak;86,7
+2025-01-21;2025-01;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-21;2025-01;Warszawa;WAW/2025/00020;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-21;2025-01;Warszawa;WAW/2025/00160;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-22;2025-01;Gdańsk;GDA-0174;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-01-22;2025-01;Gdańsk;GDA-0255;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-22;2025-01;Warszawa;WAW/2025/00247;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-01-23;2025-01;Gdańsk;GDA-0194;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-01-23;2025-01;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-01-23;2025-01;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-23;2025-01;Warszawa;WAW/2025/00162;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;4;99,0;99,0;nie;396,0
+2025-01-23;2025-01;Warszawa;WAW/2025/00482;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;6;39,0;39,0;nie;234,0
+2025-01-23;2025-01;Warszawa;WAW/2025/00495;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-01-24;2025-01;Gdańsk;GDA-0015;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-24;2025-01;Gdańsk;GDA-0281;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-01-24;2025-01;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-01-24;2025-01;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;16,15;19,0;tak;16,15
+2025-01-24;2025-01;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-01-24;2025-01;Warszawa;WAW/2025/00131;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-24;2025-01;Warszawa;WAW/2025/00265;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-01-24;2025-01;Warszawa;WAW/2025/00368;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-01-24;2025-01;Warszawa;WAW/2025/00378;KAW-007;Kapsułki Lungo 30 szt.;Kawa;4;36,0;36,0;nie;144,0
+2025-01-24;2025-01;Warszawa;WAW/2025/00517;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-01-25;2025-01;Gdańsk;GDA-0107;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-25;2025-01;Gdańsk;GDA-0262;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-01-25;2025-01;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-01-25;2025-01;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-01-25;2025-01;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-01-25;2025-01;Warszawa;WAW/2025/00002;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-01-25;2025-01;Warszawa;WAW/2025/00176;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-01-25;2025-01;Warszawa;WAW/2025/00372;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-01-25;2025-01;Warszawa;WAW/2025/00389;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;33,15;39,0;tak;33,15
+2025-01-26;2025-01;Gdańsk;GDA-0082;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-26;2025-01;Gdańsk;GDA-0211;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-01-26;2025-01;Gdańsk;GDA-0219;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-26;2025-01;Gdańsk;GDA-0252;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-01-26;2025-01;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-01-26;2025-01;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-26;2025-01;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-01-26;2025-01;Warszawa;WAW/2025/00029;HER-001;Herbata czarna Assam 100 g;Herbata;1;20,4;24,0;tak;20,4
+2025-01-26;2025-01;Warszawa;WAW/2025/00182;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-01-26;2025-01;Warszawa;WAW/2025/00264;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-01-26;2025-01;Warszawa;WAW/2025/00295;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-26;2025-01;Warszawa;WAW/2025/00469;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-01-27;2025-01;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-01-27;2025-01;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-27;2025-01;Warszawa;WAW/2025/00050;AKC-004;French press 1 l;Akcesoria;3;79,0;79,0;nie;237,0
+2025-01-27;2025-01;Warszawa;WAW/2025/00121;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-01-27;2025-01;Warszawa;WAW/2025/00281;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-01-28;2025-01;Gdańsk;GDA-0043;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-28;2025-01;Gdańsk;GDA-0048;HER-001;Herbata czarna Assam 100 g;Herbata;6;24,0;24,0;nie;144,0
+2025-01-28;2025-01;Gdańsk;GDA-0115;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-01-28;2025-01;Gdańsk;GDA-0223;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;84,15;99,0;tak;84,15
+2025-01-28;2025-01;Gdańsk;GDA-0246;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-01-28;2025-01;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;99,0;99,0;nie;297,0
+2025-01-28;2025-01;Kraków;;AKC-005;Kubek termiczny 350 ml;Akcesoria;3;59,0;59,0;nie;177,0
+2025-01-28;2025-01;Warszawa;WAW/2025/00258;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;4;80,75;95,0;tak;323,0
+2025-01-28;2025-01;Warszawa;WAW/2025/00443;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;4;149,0;149,0;nie;596,0
+2025-01-28;2025-01;Warszawa;WAW/2025/00496;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;2;25,0;25,0;nie;50,0
+2025-01-29;2025-01;Gdańsk;GDA-0010;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-01-29;2025-01;Gdańsk;GDA-0184;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-01-29;2025-01;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;41,65;49,0;tak;83,3
+2025-01-29;2025-01;Kraków;;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;2;25,0;25,0;nie;50,0
+2025-01-29;2025-01;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;84,15;99,0;tak;84,15
+2025-01-29;2025-01;Warszawa;WAW/2025/00028;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-01-29;2025-01;Warszawa;WAW/2025/00419;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-01-30;2025-01;Gdańsk;GDA-0172;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-01-30;2025-01;Kraków;;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;59,0;59,0;nie;59,0
+2025-01-30;2025-01;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-01-31;2025-01;Gdańsk;GDA-0078;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-01-31;2025-01;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-01-31;2025-01;Warszawa;WAW/2025/00110;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-01-31;2025-01;Warszawa;WAW/2025/00184;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-02-01;2025-02;Gdańsk;GDA-0002;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-02-01;2025-02;Gdańsk;GDA-0116;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-02-01;2025-02;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;58,65;69,0;tak;117,3
+2025-02-01;2025-02;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;6;19,0;19,0;nie;114,0
+2025-02-01;2025-02;Warszawa;WAW/2025/00031;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-02-01;2025-02;Warszawa;WAW/2025/00298;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-02-01;2025-02;Warszawa;WAW/2025/00345;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-01;2025-02;Warszawa;WAW/2025/00493;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-02-02;2025-02;Gdańsk;GDA-0046;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-02-02;2025-02;Gdańsk;GDA-0234;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-02-02;2025-02;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-02-02;2025-02;Warszawa;WAW/2025/00047;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-02-02;2025-02;Warszawa;WAW/2025/00514;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-02-03;2025-02;Gdańsk;GDA-0074;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-02-03;2025-02;Gdańsk;GDA-0150;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-02-03;2025-02;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;30,6;36,0;tak;91,8
+2025-02-03;2025-02;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-02-03;2025-02;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;58,65;69,0;tak;117,3
+2025-02-03;2025-02;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-02-03;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-02-03;2025-02;Warszawa;WAW/2025/00086;AKC-050;;Brak w katalogu;1;55,0;;nie;55,0
+2025-02-03;2025-02;Warszawa;WAW/2025/00114;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-02-03;2025-02;Warszawa;WAW/2025/00260;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-02-03;2025-02;Warszawa;WAW/2025/00491;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-02-04;2025-02;Gdańsk;GDA-0066;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-02-04;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-02-04;2025-02;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-02-04;2025-02;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-02-04;2025-02;Kraków;;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-02-04;2025-02;Warszawa;WAW/2025/00006;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-04;2025-02;Warszawa;WAW/2025/00177;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-02-04;2025-02;Warszawa;WAW/2025/00519;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;39,0;39,0;nie;117,0
+2025-02-05;2025-02;Gdańsk;GDA-0088;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-02-05;2025-02;Kraków;;AKC-050;;Brak w katalogu;2;55,0;;nie;110,0
+2025-02-05;2025-02;Warszawa;WAW/2025/00311;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-02-05;2025-02;Warszawa;WAW/2025/00318;KAW-007;Kapsułki Lungo 30 szt.;Kawa;4;36,0;36,0;nie;144,0
+2025-02-05;2025-02;Warszawa;WAW/2025/00400;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-02-05;2025-02;Warszawa;WAW/2025/00402;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-02-06;2025-02;Gdańsk;GDA-0197;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-02-06;2025-02;Gdańsk;GDA-0272;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-06;2025-02;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-02-06;2025-02;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;4;32,0;32,0;nie;128,0
+2025-02-06;2025-02;Warszawa;WAW/2025/00313;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-02-06;2025-02;Warszawa;WAW/2025/00399;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-06;2025-02;Warszawa;WAW/2025/00471;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-02-06;2025-02;Warszawa;WAW/2025/00520;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-07;2025-02;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-07;2025-02;Kraków;;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-02-07;2025-02;Warszawa;WAW/2025/00034;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-02-07;2025-02;Warszawa;WAW/2025/00282;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-02-07;2025-02;Warszawa;WAW/2025/00304;HER-002;Herbata zielona Sencha 100 g;Herbata;3;29,0;29,0;nie;87,0
+2025-02-07;2025-02;Warszawa;WAW/2025/00334;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-02-07;2025-02;Warszawa;WAW/2025/00347;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-02-07;2025-02;Warszawa;WAW/2025/00361;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-02-07;2025-02;Warszawa;WAW/2025/00392;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-08;2025-02;Gdańsk;GDA-0044;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-02-08;2025-02;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-08;2025-02;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;16,15;19,0;tak;16,15
+2025-02-08;2025-02;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-02-08;2025-02;Warszawa;WAW/2025/00205;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-02-09;2025-02;Gdańsk;GDA-0280;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-02-09;2025-02;Warszawa;WAW/2025/00140;AKC-006;Waga kuchenna z timerem;Akcesoria;3;99,0;99,0;nie;297,0
+2025-02-09;2025-02;Warszawa;WAW/2025/00371;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-02-10;2025-02;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-02-10;2025-02;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-02-11;2025-02;Gdańsk;GDA-0087;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-11;2025-02;Gdańsk;GDA-0104;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-02-11;2025-02;Gdańsk;GDA-0176;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;59,0;59,0;nie;59,0
+2025-02-11;2025-02;Gdańsk;GDA-0177;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-11;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-02-11;2025-02;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-02-11;2025-02;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;24,65;29,0;tak;24,65
+2025-02-11;2025-02;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-11;2025-02;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-02-11;2025-02;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-02-12;2025-02;Gdańsk;GDA-0085;AKC-001;Drip V60 ceramiczny;Akcesoria;4;119,0;119,0;nie;476,0
+2025-02-12;2025-02;Gdańsk;GDA-0187;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-02-12;2025-02;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-02-12;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-02-12;2025-02;Warszawa;WAW/2025/00036;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-13;2025-02;Gdańsk;GDA-0021;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-02-13;2025-02;Warszawa;WAW/2025/00253;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;4;89,0;89,0;nie;356,0
+2025-02-14;2025-02;Gdańsk;GDA-0017;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-02-14;2025-02;Gdańsk;GDA-0051;AKC-001;Drip V60 ceramiczny;Akcesoria;2;119,0;119,0;nie;238,0
+2025-02-14;2025-02;Gdańsk;GDA-0153;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-02-14;2025-02;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;41,65;49,0;tak;41,65
+2025-02-14;2025-02;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;84,15;99,0;tak;168,3
+2025-02-15;2025-02;Gdańsk;GDA-0089;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-15;2025-02;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-02-15;2025-02;Warszawa;WAW/2025/00045;HER-002;Herbata zielona Sencha 100 g;Herbata;4;24,65;29,0;tak;98,6
+2025-02-15;2025-02;Warszawa;WAW/2025/00226;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;59,0;59,0;nie;59,0
+2025-02-16;2025-02;Gdańsk;GDA-0112;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-02-16;2025-02;Gdańsk;GDA-0191;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-02-16;2025-02;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;4;24,0;24,0;nie;96,0
+2025-02-16;2025-02;Kraków;;KAW-099;;Brak w katalogu;2;55,0;;nie;110,0
+2025-02-16;2025-02;Warszawa;WAW/2025/00055;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-02-16;2025-02;Warszawa;WAW/2025/00072;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;4;42,0;42,0;nie;168,0
+2025-02-17;2025-02;Gdańsk;GDA-0139;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-02-17;2025-02;Gdańsk;GDA-0270;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-02-17;2025-02;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-02-17;2025-02;Warszawa;WAW/2025/00158;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-02-17;2025-02;Warszawa;WAW/2025/00346;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-02-18;2025-02;Gdańsk;GDA-0118;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-18;2025-02;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-02-18;2025-02;Warszawa;WAW/2025/00058;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-02-18;2025-02;Warszawa;WAW/2025/00082;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-02-18;2025-02;Warszawa;WAW/2025/00466;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-19;2025-02;Gdańsk;GDA-0024;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-19;2025-02;Gdańsk;GDA-0041;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-02-19;2025-02;Gdańsk;GDA-0231;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-02-19;2025-02;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-19;2025-02;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-02-19;2025-02;Warszawa;WAW/2025/00040;AKC-005;Kubek termiczny 350 ml;Akcesoria;4;59,0;59,0;nie;236,0
+2025-02-19;2025-02;Warszawa;WAW/2025/00163;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-02-19;2025-02;Warszawa;WAW/2025/00387;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-19;2025-02;Warszawa;WAW/2025/00405;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;80,75;95,0;tak;161,5
+2025-02-19;2025-02;Warszawa;WAW/2025/00416;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-02-19;2025-02;Warszawa;WAW/2025/00476;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;33,15;39,0;tak;99,45
+2025-02-19;2025-02;Warszawa;WAW/2025/00497;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-02-20;2025-02;Gdańsk;GDA-0181;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-20;2025-02;Gdańsk;GDA-0198;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;4;95,0;95,0;nie;380,0
+2025-02-20;2025-02;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-02-20;2025-02;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;4;36,0;36,0;nie;144,0
+2025-02-20;2025-02;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-02-20;2025-02;Warszawa;WAW/2025/00042;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-02-20;2025-02;Warszawa;WAW/2025/00200;HER-006;Matcha ceremonialna 30 g;Herbata;4;58,65;69,0;tak;234,6
+2025-02-20;2025-02;Warszawa;WAW/2025/00239;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-20;2025-02;Warszawa;WAW/2025/00504;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-02-21;2025-02;Gdańsk;GDA-0215;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-02-21;2025-02;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-21;2025-02;Kraków;;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-02-21;2025-02;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-02-21;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-02-21;2025-02;Warszawa;WAW/2025/00248;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-02-21;2025-02;Warszawa;WAW/2025/00363;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-02-22;2025-02;Gdańsk;GDA-0220;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;41,65;49,0;tak;41,65
+2025-02-22;2025-02;Gdańsk;GDA-0232;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;33,15;39,0;tak;33,15
+2025-02-22;2025-02;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-22;2025-02;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-02-22;2025-02;Kraków;;KAW-099;;Brak w katalogu;1;55,0;;nie;55,0
+2025-02-22;2025-02;Warszawa;WAW/2025/00080;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-02-22;2025-02;Warszawa;WAW/2025/00152;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-22;2025-02;Warszawa;WAW/2025/00329;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-02-23;2025-02;Gdańsk;GDA-0001;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-02-23;2025-02;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;16,15;19,0;tak;48,45
+2025-02-23;2025-02;Kraków;;AKC-006;Waga kuchenna z timerem;Akcesoria;2;99,0;99,0;nie;198,0
+2025-02-23;2025-02;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-02-23;2025-02;Warszawa;WAW/2025/00161;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-02-23;2025-02;Warszawa;WAW/2025/00312;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-02-23;2025-02;Warszawa;WAW/2025/00314;HER-005;Yerba Mate Klasyczna 500 g;Herbata;3;32,0;32,0;nie;96,0
+2025-02-24;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-02-24;2025-02;Kraków;;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;2;25,0;25,0;nie;50,0
+2025-02-24;2025-02;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-24;2025-02;Warszawa;WAW/2025/00051;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-02-24;2025-02;Warszawa;WAW/2025/00335;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-02-25;2025-02;Gdańsk;GDA-0012;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-02-25;2025-02;Gdańsk;GDA-0200;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-02-25;2025-02;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-02-25;2025-02;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-02-25;2025-02;Warszawa;WAW/2025/00135;AKC-001;Drip V60 ceramiczny;Akcesoria;2;119,0;119,0;nie;238,0
+2025-02-25;2025-02;Warszawa;WAW/2025/00187;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;6;33,15;39,0;tak;198,9
+2025-02-25;2025-02;Warszawa;WAW/2025/00204;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-02-25;2025-02;Warszawa;WAW/2025/00294;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-02-26;2025-02;Gdańsk;GDA-0042;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-02-26;2025-02;Gdańsk;GDA-0080;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;6;149,0;149,0;nie;894,0
+2025-02-26;2025-02;Gdańsk;GDA-0248;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-02-26;2025-02;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;28,9;34,0;tak;28,9
+2025-02-26;2025-02;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-02-26;2025-02;Warszawa;WAW/2025/00066;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-26;2025-02;Warszawa;WAW/2025/00217;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-02-26;2025-02;Warszawa;WAW/2025/00503;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-02-27;2025-02;Gdańsk;GDA-0079;HER-005;Yerba Mate Klasyczna 500 g;Herbata;4;32,0;32,0;nie;128,0
+2025-02-27;2025-02;Gdańsk;GDA-0099;AKC-003;Młynek ręczny stalowy;Akcesoria;3;189,0;189,0;nie;567,0
+2025-02-27;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;39,0;39,0;nie;117,0
+2025-02-27;2025-02;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-02-27;2025-02;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-27;2025-02;Warszawa;WAW/2025/00478;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-02-28;2025-02;Gdańsk;GDA-0190;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-02-28;2025-02;Gdańsk;GDA-0217;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-02-28;2025-02;Gdańsk;GDA-0239;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-02-28;2025-02;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-02-28;2025-02;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-02-28;2025-02;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-02-28;2025-02;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-02-28;2025-02;Warszawa;WAW/2025/00071;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-02-28;2025-02;Warszawa;WAW/2025/00150;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-02-28;2025-02;Warszawa;WAW/2025/00230;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;75,65;89,0;tak;151,3
+2025-02-28;2025-02;Warszawa;WAW/2025/00420;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-01;2025-03;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;3;24,0;24,0;nie;72,0
+2025-03-01;2025-03;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-03-01;2025-03;Warszawa;WAW/2025/00023;KAW-099;;Brak w katalogu;1;55,0;;nie;55,0
+2025-03-01;2025-03;Warszawa;WAW/2025/00169;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-03-01;2025-03;Warszawa;WAW/2025/00183;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;21,25;25,0;tak;21,25
+2025-03-02;2025-03;Gdańsk;GDA-0016;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-02;2025-03;Kraków;;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-03-02;2025-03;Warszawa;WAW/2025/00210;HER-001;Herbata czarna Assam 100 g;Herbata;3;24,0;24,0;nie;72,0
+2025-03-02;2025-03;Warszawa;WAW/2025/00278;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-03-02;2025-03;Warszawa;WAW/2025/00380;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;80,75;95,0;tak;80,75
+2025-03-03;2025-03;Gdańsk;GDA-0159;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-03-03;2025-03;Gdańsk;GDA-0250;AKC-005;Kubek termiczny 350 ml;Akcesoria;6;59,0;59,0;nie;354,0
+2025-03-03;2025-03;Gdańsk;GDA-0258;AKC-004;French press 1 l;Akcesoria;3;79,0;79,0;nie;237,0
+2025-03-03;2025-03;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-03-03;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-03-03;2025-03;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;2;24,65;29,0;tak;49,3
+2025-03-03;2025-03;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-03;2025-03;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;3;24,65;29,0;tak;73,95
+2025-03-03;2025-03;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-03;2025-03;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-03-03;2025-03;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;30,6;36,0;tak;30,6
+2025-03-03;2025-03;Warszawa;WAW/2025/00038;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-03-03;2025-03;Warszawa;WAW/2025/00386;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-03-03;2025-03;Warszawa;WAW/2025/00417;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-03-04;2025-03;Gdańsk;GDA-0022;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-04;2025-03;Gdańsk;GDA-0093;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-03-04;2025-03;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-03-04;2025-03;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;58,65;69,0;tak;117,3
+2025-03-04;2025-03;Warszawa;WAW/2025/00088;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-04;2025-03;Warszawa;WAW/2025/00090;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-04;2025-03;Warszawa;WAW/2025/00147;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;6;95,0;95,0;nie;570,0
+2025-03-04;2025-03;Warszawa;WAW/2025/00180;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-03-04;2025-03;Warszawa;WAW/2025/00290;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-03-04;2025-03;Warszawa;WAW/2025/00411;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-03-04;2025-03;Warszawa;WAW/2025/00414;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-05;2025-03;Gdańsk;GDA-0277;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;80,75;95,0;tak;161,5
+2025-03-05;2025-03;Kraków;;AKC-005;Kubek termiczny 350 ml;Akcesoria;3;50,15;59,0;tak;150,45
+2025-03-05;2025-03;Warszawa;WAW/2025/00061;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-05;2025-03;Warszawa;WAW/2025/00164;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;16,15;19,0;tak;16,15
+2025-03-06;2025-03;Gdańsk;GDA-0221;AKC-050;;Brak w katalogu;1;55,0;;nie;55,0
+2025-03-06;2025-03;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-06;2025-03;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;4;34,0;34,0;nie;136,0
+2025-03-06;2025-03;Warszawa;WAW/2025/00170;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-03-06;2025-03;Warszawa;WAW/2025/00307;HER-002;Herbata zielona Sencha 100 g;Herbata;3;29,0;29,0;nie;87,0
+2025-03-06;2025-03;Warszawa;WAW/2025/00415;AKC-005;Kubek termiczny 350 ml;Akcesoria;4;50,15;59,0;tak;200,6
+2025-03-07;2025-03;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-03-07;2025-03;Warszawa;WAW/2025/00107;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-03-07;2025-03;Warszawa;WAW/2025/00277;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;3;42,0;42,0;nie;126,0
+2025-03-08;2025-03;Gdańsk;GDA-0084;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-03-08;2025-03;Gdańsk;GDA-0132;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-03-08;2025-03;Gdańsk;GDA-0178;HER-005;Yerba Mate Klasyczna 500 g;Herbata;3;32,0;32,0;nie;96,0
+2025-03-08;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-08;2025-03;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-03-08;2025-03;Warszawa;WAW/2025/00073;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-08;2025-03;Warszawa;WAW/2025/00338;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;80,75;95,0;tak;80,75
+2025-03-08;2025-03;Warszawa;WAW/2025/00382;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;6;34,0;34,0;nie;204,0
+2025-03-09;2025-03;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-09;2025-03;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-09;2025-03;Warszawa;WAW/2025/00104;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-03-09;2025-03;Warszawa;WAW/2025/00167;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-03-09;2025-03;Warszawa;WAW/2025/00245;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-03-10;2025-03;Gdańsk;GDA-0129;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-03-10;2025-03;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-03-10;2025-03;Kraków;;KAW-099;;Brak w katalogu;1;55,0;;nie;55,0
+2025-03-10;2025-03;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;6;49,0;49,0;nie;294,0
+2025-03-10;2025-03;Warszawa;WAW/2025/00122;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-03-10;2025-03;Warszawa;WAW/2025/00179;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-03-10;2025-03;Warszawa;WAW/2025/00475;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-11;2025-03;Gdańsk;GDA-0102;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-11;2025-03;Kraków;;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-03-11;2025-03;Kraków;;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-03-12;2025-03;Gdańsk;GDA-0130;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-12;2025-03;Gdańsk;GDA-0227;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-03-12;2025-03;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-03-12;2025-03;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;34,0;34,0;nie;102,0
+2025-03-12;2025-03;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-03-12;2025-03;Warszawa;WAW/2025/00404;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-03-12;2025-03;Warszawa;WAW/2025/00445;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-03-13;2025-03;Gdańsk;GDA-0071;HER-006;Matcha ceremonialna 30 g;Herbata;4;69,0;69,0;nie;276,0
+2025-03-13;2025-03;Gdańsk;GDA-0097;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;30,6;36,0;tak;30,6
+2025-03-13;2025-03;Gdańsk;GDA-0195;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-03-13;2025-03;Gdańsk;GDA-0253;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-03-13;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-13;2025-03;Warszawa;WAW/2025/00308;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-03-13;2025-03;Warszawa;WAW/2025/00449;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-03-14;2025-03;Gdańsk;GDA-0090;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-03-14;2025-03;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-03-14;2025-03;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-14;2025-03;Warszawa;WAW/2025/00407;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-15;2025-03;Gdańsk;GDA-0040;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-03-15;2025-03;Gdańsk;GDA-0273;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-03-15;2025-03;Warszawa;WAW/2025/00019;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-03-15;2025-03;Warszawa;WAW/2025/00263;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-15;2025-03;Warszawa;WAW/2025/00266;AKC-006;Waga kuchenna z timerem;Akcesoria;1;84,15;99,0;tak;84,15
+2025-03-15;2025-03;Warszawa;WAW/2025/00435;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-03-16;2025-03;Gdańsk;GDA-0077;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-03-16;2025-03;Gdańsk;GDA-0209;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-03-16;2025-03;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-03-16;2025-03;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-03-16;2025-03;Warszawa;WAW/2025/00119;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-03-16;2025-03;Warszawa;WAW/2025/00398;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;6;42,0;42,0;nie;252,0
+2025-03-16;2025-03;Warszawa;WAW/2025/00483;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;39,0;39,0;nie;117,0
+2025-03-17;2025-03;Gdańsk;GDA-0073;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-03-17;2025-03;Warszawa;WAW/2025/00321;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;6;39,0;39,0;nie;234,0
+2025-03-17;2025-03;Warszawa;WAW/2025/00441;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-03-18;2025-03;Gdańsk;GDA-0236;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-03-18;2025-03;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-03-18;2025-03;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-03-18;2025-03;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-03-18;2025-03;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-18;2025-03;Warszawa;WAW/2025/00010;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-18;2025-03;Warszawa;WAW/2025/00011;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-18;2025-03;Warszawa;WAW/2025/00330;AKC-006;Waga kuchenna z timerem;Akcesoria;6;84,15;99,0;tak;504,9
+2025-03-18;2025-03;Warszawa;WAW/2025/00332;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-18;2025-03;Warszawa;WAW/2025/00384;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-18;2025-03;Warszawa;WAW/2025/00490;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-19;2025-03;Gdańsk;GDA-0245;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-19;2025-03;Gdańsk;GDA-0300;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-03-19;2025-03;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-03-19;2025-03;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;16,15;19,0;tak;16,15
+2025-03-19;2025-03;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-03-19;2025-03;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-03-19;2025-03;Warszawa;WAW/2025/00231;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-03-20;2025-03;Gdańsk;GDA-0196;AKC-003;Młynek ręczny stalowy;Akcesoria;2;189,0;189,0;nie;378,0
+2025-03-20;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-20;2025-03;Warszawa;WAW/2025/00252;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-03-20;2025-03;Warszawa;WAW/2025/00432;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;4;80,75;95,0;tak;323,0
+2025-03-21;2025-03;Warszawa;WAW/2025/00032;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-03-21;2025-03;Warszawa;WAW/2025/00227;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-03-21;2025-03;Warszawa;WAW/2025/00438;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-03-21;2025-03;Warszawa;WAW/2025/00481;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;28,9;34,0;tak;86,7
+2025-03-22;2025-03;Gdańsk;GDA-0183;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-03-22;2025-03;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;33,15;39,0;tak;33,15
+2025-03-22;2025-03;Warszawa;WAW/2025/00014;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-03-22;2025-03;Warszawa;WAW/2025/00157;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-03-22;2025-03;Warszawa;WAW/2025/00201;AKC-003;Młynek ręczny stalowy;Akcesoria;4;189,0;189,0;nie;756,0
+2025-03-22;2025-03;Warszawa;WAW/2025/00213;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;30,6;36,0;tak;30,6
+2025-03-22;2025-03;Warszawa;WAW/2025/00228;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-03-23;2025-03;Gdańsk;GDA-0186;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-03-23;2025-03;Gdańsk;GDA-0256;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-23;2025-03;Gdańsk;GDA-0286;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-03-23;2025-03;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-03-23;2025-03;Warszawa;WAW/2025/00509;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-03-24;2025-03;Gdańsk;GDA-0180;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-03-24;2025-03;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;4;32,0;32,0;nie;128,0
+2025-03-24;2025-03;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-03-24;2025-03;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-03-24;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-03-24;2025-03;Warszawa;WAW/2025/00001;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;33,15;39,0;tak;99,45
+2025-03-24;2025-03;Warszawa;WAW/2025/00359;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;99,0;99,0;nie;297,0
+2025-03-24;2025-03;Warszawa;WAW/2025/00424;HER-006;Matcha ceremonialna 30 g;Herbata;1;58,65;69,0;tak;58,65
+2025-03-24;2025-03;Warszawa;WAW/2025/00440;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;6;99,0;99,0;nie;594,0
+2025-03-24;2025-03;Warszawa;WAW/2025/00454;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-03-25;2025-03;Gdańsk;GDA-0033;HER-002;Herbata zielona Sencha 100 g;Herbata;4;29,0;29,0;nie;116,0
+2025-03-25;2025-03;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-03-25;2025-03;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-25;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-25;2025-03;Warszawa;WAW/2025/00052;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;4;99,0;99,0;nie;396,0
+2025-03-25;2025-03;Warszawa;WAW/2025/00074;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-25;2025-03;Warszawa;WAW/2025/00189;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-03-25;2025-03;Warszawa;WAW/2025/00221;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-26;2025-03;Gdańsk;GDA-0007;AKC-006;Waga kuchenna z timerem;Akcesoria;2;99,0;99,0;nie;198,0
+2025-03-26;2025-03;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-26;2025-03;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-03-26;2025-03;Warszawa;WAW/2025/00249;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-03-26;2025-03;Warszawa;WAW/2025/00391;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-03-27;2025-03;Gdańsk;GDA-0110;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;6;89,0;89,0;nie;534,0
+2025-03-27;2025-03;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-27;2025-03;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-03-27;2025-03;Warszawa;WAW/2025/00091;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-27;2025-03;Warszawa;WAW/2025/00484;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-03-28;2025-03;Gdańsk;GDA-0113;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-03-28;2025-03;Gdańsk;GDA-0192;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;2;21,25;25,0;tak;42,5
+2025-03-28;2025-03;Kraków;;AKC-001;Drip V60 ceramiczny;Akcesoria;2;119,0;119,0;nie;238,0
+2025-03-28;2025-03;Warszawa;WAW/2025/00068;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;33,15;39,0;tak;33,15
+2025-03-28;2025-03;Warszawa;WAW/2025/00069;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;84,15;99,0;tak;84,15
+2025-03-28;2025-03;Warszawa;WAW/2025/00077;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-03-28;2025-03;Warszawa;WAW/2025/00118;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-03-28;2025-03;Warszawa;WAW/2025/00390;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-29;2025-03;Gdańsk;GDA-0148;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-03-29;2025-03;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;16,15;19,0;tak;16,15
+2025-03-29;2025-03;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-29;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-03-29;2025-03;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-03-29;2025-03;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-03-29;2025-03;Warszawa;WAW/2025/00327;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-03-30;2025-03;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-03-30;2025-03;Warszawa;WAW/2025/00254;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;28,9;34,0;tak;28,9
+2025-03-31;2025-03;Gdańsk;GDA-0224;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;4;19,0;19,0;nie;76,0
+2025-03-31;2025-03;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-03-31;2025-03;Warszawa;WAW/2025/00041;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-03-31;2025-03;Warszawa;WAW/2025/00442;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-03-31;2025-03;Warszawa;WAW/2025/00485;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-01;2025-04;Gdańsk;GDA-0152;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-04-01;2025-04;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;84,15;99,0;tak;84,15
+2025-04-01;2025-04;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-04-01;2025-04;Warszawa;WAW/2025/00053;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-01;2025-04;Warszawa;WAW/2025/00381;KAW-007;Kapsułki Lungo 30 szt.;Kawa;4;30,6;36,0;tak;122,4
+2025-04-01;2025-04;Warszawa;WAW/2025/00489;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-04-02;2025-04;Gdańsk;GDA-0109;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-02;2025-04;Gdańsk;GDA-0173;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-02;2025-04;Gdańsk;GDA-0202;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;4;42,0;42,0;nie;168,0
+2025-04-02;2025-04;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-04-02;2025-04;Warszawa;WAW/2025/00039;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-04-02;2025-04;Warszawa;WAW/2025/00271;AKC-003;Młynek ręczny stalowy;Akcesoria;2;189,0;189,0;nie;378,0
+2025-04-02;2025-04;Warszawa;WAW/2025/00410;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-04-02;2025-04;Warszawa;WAW/2025/00458;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-03;2025-04;Gdańsk;GDA-0039;HER-001;Herbata czarna Assam 100 g;Herbata;3;20,4;24,0;tak;61,2
+2025-04-03;2025-04;Gdańsk;GDA-0049;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-04-03;2025-04;Gdańsk;GDA-0144;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-04-03;2025-04;Gdańsk;GDA-0162;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-04-03;2025-04;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;6;24,0;24,0;nie;144,0
+2025-04-03;2025-04;Warszawa;WAW/2025/00134;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-04-03;2025-04;Warszawa;WAW/2025/00401;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;2;25,0;25,0;nie;50,0
+2025-04-04;2025-04;Gdańsk;GDA-0121;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-04;2025-04;Gdańsk;GDA-0247;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;84,15;99,0;tak;84,15
+2025-04-04;2025-04;Kraków;;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-04-04;2025-04;Warszawa;WAW/2025/00115;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-04-04;2025-04;Warszawa;WAW/2025/00194;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-04-04;2025-04;Warszawa;WAW/2025/00196;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;35,7;42,0;tak;71,4
+2025-04-04;2025-04;Warszawa;WAW/2025/00409;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;34,0;34,0;nie;102,0
+2025-04-04;2025-04;Warszawa;WAW/2025/00426;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-04-04;2025-04;Warszawa;WAW/2025/00437;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-04-05;2025-04;Gdańsk;GDA-0068;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-04-05;2025-04;Gdańsk;GDA-0105;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-05;2025-04;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-05;2025-04;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-05;2025-04;Warszawa;WAW/2025/00225;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-05;2025-04;Warszawa;WAW/2025/00262;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-04-05;2025-04;Warszawa;WAW/2025/00492;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-06;2025-04;Gdańsk;GDA-0137;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-04-06;2025-04;Gdańsk;GDA-0154;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-06;2025-04;Gdańsk;GDA-0179;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-04-06;2025-04;Gdańsk;GDA-0296;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-06;2025-04;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-04-06;2025-04;Warszawa;WAW/2025/00385;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-07;2025-04;Gdańsk;GDA-0060;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-04-07;2025-04;Gdańsk;GDA-0240;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-04-07;2025-04;Warszawa;WAW/2025/00030;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-07;2025-04;Warszawa;WAW/2025/00133;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-04-07;2025-04;Warszawa;WAW/2025/00159;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-04-07;2025-04;Warszawa;WAW/2025/00214;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;27,2;32,0;tak;27,2
+2025-04-08;2025-04;Gdańsk;GDA-0006;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-04-08;2025-04;Gdańsk;GDA-0233;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-08;2025-04;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-08;2025-04;Kraków;;AKC-006;Waga kuchenna z timerem;Akcesoria;4;99,0;99,0;nie;396,0
+2025-04-08;2025-04;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-04-08;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-04-08;2025-04;Warszawa;WAW/2025/00022;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-08;2025-04;Warszawa;WAW/2025/00299;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-04-08;2025-04;Warszawa;WAW/2025/00412;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-04-09;2025-04;Gdańsk;GDA-0045;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-09;2025-04;Gdańsk;GDA-0056;HER-002;Herbata zielona Sencha 100 g;Herbata;4;29,0;29,0;nie;116,0
+2025-04-09;2025-04;Gdańsk;GDA-0083;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;6;99,0;99,0;nie;594,0
+2025-04-09;2025-04;Gdańsk;GDA-0297;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-09;2025-04;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-04-09;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;6;95,0;95,0;nie;570,0
+2025-04-09;2025-04;Warszawa;WAW/2025/00310;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-04-09;2025-04;Warszawa;WAW/2025/00494;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-04-10;2025-04;Gdańsk;GDA-0167;AKC-005;Kubek termiczny 350 ml;Akcesoria;2;59,0;59,0;nie;118,0
+2025-04-10;2025-04;Gdańsk;GDA-0242;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-10;2025-04;Gdańsk;GDA-0266;AKC-005;Kubek termiczny 350 ml;Akcesoria;6;59,0;59,0;nie;354,0
+2025-04-10;2025-04;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-10;2025-04;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-04-10;2025-04;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-10;2025-04;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;3;24,0;24,0;nie;72,0
+2025-04-10;2025-04;Warszawa;WAW/2025/00207;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-04-10;2025-04;Warszawa;WAW/2025/00293;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-04-11;2025-04;Gdańsk;GDA-0225;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;99,0;99,0;nie;297,0
+2025-04-11;2025-04;Gdańsk;GDA-0264;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-04-11;2025-04;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-11;2025-04;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-11;2025-04;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-04-11;2025-04;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-04-11;2025-04;Warszawa;WAW/2025/00063;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-04-11;2025-04;Warszawa;WAW/2025/00128;HER-002;Herbata zielona Sencha 100 g;Herbata;1;24,65;29,0;tak;24,65
+2025-04-11;2025-04;Warszawa;WAW/2025/00302;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-12;2025-04;Gdańsk;GDA-0237;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-04-12;2025-04;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-04-12;2025-04;Kraków;;AKC-006;Waga kuchenna z timerem;Akcesoria;1;84,15;99,0;tak;84,15
+2025-04-12;2025-04;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;3;29,0;29,0;nie;87,0
+2025-04-12;2025-04;Warszawa;WAW/2025/00046;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;16,15;19,0;tak;16,15
+2025-04-12;2025-04;Warszawa;WAW/2025/00151;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-04-12;2025-04;Warszawa;WAW/2025/00191;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-04-12;2025-04;Warszawa;WAW/2025/00192;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-13;2025-04;Gdańsk;GDA-0122;HER-006;Matcha ceremonialna 30 g;Herbata;1;58,65;69,0;tak;58,65
+2025-04-13;2025-04;Kraków;;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-04-13;2025-04;Warszawa;WAW/2025/00301;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-04-13;2025-04;Warszawa;WAW/2025/00331;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-04-13;2025-04;Warszawa;WAW/2025/00423;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;6;39,0;39,0;nie;234,0
+2025-04-13;2025-04;Warszawa;WAW/2025/00461;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-13;2025-04;Warszawa;WAW/2025/00498;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-04-14;2025-04;Gdańsk;GDA-0203;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-04-14;2025-04;Kraków;;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-04-14;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-04-14;2025-04;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-04-14;2025-04;Warszawa;WAW/2025/00341;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-04-14;2025-04;Warszawa;WAW/2025/00369;HER-006;Matcha ceremonialna 30 g;Herbata;4;69,0;69,0;nie;276,0
+2025-04-15;2025-04;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-04-15;2025-04;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-04-15;2025-04;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-04-15;2025-04;Warszawa;WAW/2025/00406;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-04-16;2025-04;Gdańsk;GDA-0222;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;80,75;95,0;tak;80,75
+2025-04-16;2025-04;Gdańsk;GDA-0257;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-04-16;2025-04;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-04-16;2025-04;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-04-16;2025-04;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-04-16;2025-04;Warszawa;WAW/2025/00447;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-04-17;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;80,75;95,0;tak;80,75
+2025-04-17;2025-04;Warszawa;WAW/2025/00117;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-17;2025-04;Warszawa;WAW/2025/00325;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-17;2025-04;Warszawa;WAW/2025/00444;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-04-18;2025-04;Gdańsk;GDA-0151;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-04-18;2025-04;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-18;2025-04;Warszawa;WAW/2025/00024;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-18;2025-04;Warszawa;WAW/2025/00208;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-04-19;2025-04;Gdańsk;GDA-0028;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-04-19;2025-04;Gdańsk;GDA-0243;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-19;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-04-19;2025-04;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-19;2025-04;Warszawa;WAW/2025/00261;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-19;2025-04;Warszawa;WAW/2025/00272;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-04-19;2025-04;Warszawa;WAW/2025/00291;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-04-20;2025-04;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-20;2025-04;Kraków;;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-04-20;2025-04;Kraków;;KAW-099;;Brak w katalogu;1;55,0;;nie;55,0
+2025-04-20;2025-04;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-20;2025-04;Warszawa;WAW/2025/00123;HER-005;Yerba Mate Klasyczna 500 g;Herbata;4;32,0;32,0;nie;128,0
+2025-04-20;2025-04;Warszawa;WAW/2025/00130;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;80,75;95,0;tak;80,75
+2025-04-20;2025-04;Warszawa;WAW/2025/00175;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-04-20;2025-04;Warszawa;WAW/2025/00455;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;50,15;59,0;tak;50,15
+2025-04-21;2025-04;Gdańsk;GDA-0031;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-04-21;2025-04;Gdańsk;GDA-0230;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-04-21;2025-04;Gdańsk;GDA-0285;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-04-21;2025-04;Gdańsk;GDA-0294;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;33,15;39,0;tak;33,15
+2025-04-21;2025-04;Gdańsk;GDA-0299;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-04-21;2025-04;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;28,9;34,0;tak;86,7
+2025-04-21;2025-04;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;33,15;39,0;tak;33,15
+2025-04-21;2025-04;Warszawa;WAW/2025/00021;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-21;2025-04;Warszawa;WAW/2025/00136;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-04-21;2025-04;Warszawa;WAW/2025/00397;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-04-22;2025-04;Gdańsk;GDA-0023;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-22;2025-04;Gdańsk;GDA-0216;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-04-22;2025-04;Gdańsk;GDA-0274;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-04-22;2025-04;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-04-22;2025-04;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-04-22;2025-04;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-04-22;2025-04;Warszawa;WAW/2025/00003;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-04-22;2025-04;Warszawa;WAW/2025/00144;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;35,7;42,0;tak;35,7
+2025-04-22;2025-04;Warszawa;WAW/2025/00195;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-04-22;2025-04;Warszawa;WAW/2025/00453;KAW-007;Kapsułki Lungo 30 szt.;Kawa;4;30,6;36,0;tak;122,4
+2025-04-22;2025-04;Warszawa;WAW/2025/00457;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-04-22;2025-04;Warszawa;WAW/2025/00486;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-23;2025-04;Gdańsk;GDA-0025;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-23;2025-04;Gdańsk;GDA-0053;AKC-001;Drip V60 ceramiczny;Akcesoria;1;101,15;119,0;tak;101,15
+2025-04-23;2025-04;Gdańsk;GDA-0168;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-04-23;2025-04;Gdańsk;GDA-0226;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-04-23;2025-04;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-04-23;2025-04;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-23;2025-04;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-23;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-04-23;2025-04;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-04-23;2025-04;Warszawa;WAW/2025/00317;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-23;2025-04;Warszawa;WAW/2025/00434;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-24;2025-04;Gdańsk;GDA-0067;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;27,2;32,0;tak;27,2
+2025-04-24;2025-04;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-24;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-04-24;2025-04;Warszawa;WAW/2025/00212;HER-002;Herbata zielona Sencha 100 g;Herbata;1;24,65;29,0;tak;24,65
+2025-04-25;2025-04;Gdańsk;GDA-0050;AKC-006;Waga kuchenna z timerem;Akcesoria;2;99,0;99,0;nie;198,0
+2025-04-25;2025-04;Gdańsk;GDA-0114;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-25;2025-04;Gdańsk;GDA-0140;KAW-007;Kapsułki Lungo 30 szt.;Kawa;4;36,0;36,0;nie;144,0
+2025-04-25;2025-04;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-04-25;2025-04;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-04-25;2025-04;Warszawa;WAW/2025/00017;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-25;2025-04;Warszawa;WAW/2025/00374;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-04-26;2025-04;Gdańsk;GDA-0143;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-04-26;2025-04;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-26;2025-04;Warszawa;WAW/2025/00112;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-04-26;2025-04;Warszawa;WAW/2025/00125;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-04-26;2025-04;Warszawa;WAW/2025/00354;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-04-27;2025-04;Gdańsk;GDA-0254;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-04-27;2025-04;Warszawa;WAW/2025/00102;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-04-27;2025-04;Warszawa;WAW/2025/00289;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-04-27;2025-04;Warszawa;WAW/2025/00297;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-04-27;2025-04;Warszawa;WAW/2025/00428;HER-005;Yerba Mate Klasyczna 500 g;Herbata;3;32,0;32,0;nie;96,0
+2025-04-27;2025-04;Warszawa;WAW/2025/00436;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-04-27;2025-04;Warszawa;WAW/2025/00479;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-28;2025-04;Gdańsk;GDA-0161;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-04-28;2025-04;Gdańsk;GDA-0269;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-04-28;2025-04;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-04-28;2025-04;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-04-28;2025-04;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;3;27,2;32,0;tak;81,6
+2025-04-28;2025-04;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-04-28;2025-04;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-04-28;2025-04;Warszawa;WAW/2025/00105;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-04-28;2025-04;Warszawa;WAW/2025/00274;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-04-28;2025-04;Warszawa;WAW/2025/00348;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-04-28;2025-04;Warszawa;WAW/2025/00450;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-04-29;2025-04;Gdańsk;GDA-0018;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;34,0;34,0;nie;102,0
+2025-04-29;2025-04;Gdańsk;GDA-0238;AKC-006;Waga kuchenna z timerem;Akcesoria;1;99,0;99,0;nie;99,0
+2025-04-29;2025-04;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-04-29;2025-04;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;4;95,0;95,0;nie;380,0
+2025-04-29;2025-04;Warszawa;WAW/2025/00018;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-04-30;2025-04;Gdańsk;GDA-0029;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;30,6;36,0;tak;91,8
+2025-04-30;2025-04;Gdańsk;GDA-0210;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-04-30;2025-04;Gdańsk;GDA-0267;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-04-30;2025-04;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;30,6;36,0;tak;30,6
+2025-04-30;2025-04;Warszawa;WAW/2025/00153;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;4;19,0;19,0;nie;76,0
+2025-04-30;2025-04;Warszawa;WAW/2025/00305;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-04-30;2025-04;Warszawa;WAW/2025/00473;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;27,2;32,0;tak;27,2
+2025-05-01;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-01;2025-05;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-05-01;2025-05;Warszawa;WAW/2025/00306;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-05-01;2025-05;Warszawa;WAW/2025/00352;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-02;2025-05;Gdańsk;GDA-0072;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-05-02;2025-05;Gdańsk;GDA-0126;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-05-02;2025-05;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-05-02;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;80,75;95,0;tak;161,5
+2025-05-02;2025-05;Warszawa;WAW/2025/00111;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;6;99,0;99,0;nie;594,0
+2025-05-02;2025-05;Warszawa;WAW/2025/00211;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-02;2025-05;Warszawa;WAW/2025/00326;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-05-02;2025-05;Warszawa;WAW/2025/00446;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-05-03;2025-05;Gdańsk;GDA-0030;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-05-03;2025-05;Gdańsk;GDA-0059;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-05-03;2025-05;Gdańsk;GDA-0165;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-03;2025-05;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-05-03;2025-05;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-05-03;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-03;2025-05;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-05-03;2025-05;Warszawa;WAW/2025/00219;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-05-03;2025-05;Warszawa;WAW/2025/00396;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;6;42,0;42,0;nie;252,0
+2025-05-03;2025-05;Warszawa;WAW/2025/00408;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-05-04;2025-05;Gdańsk;GDA-0206;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-05-04;2025-05;Kraków;;AKC-001;Drip V60 ceramiczny;Akcesoria;6;119,0;119,0;nie;714,0
+2025-05-04;2025-05;Kraków;;AKC-006;Waga kuchenna z timerem;Akcesoria;2;99,0;99,0;nie;198,0
+2025-05-04;2025-05;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;4;99,0;99,0;nie;396,0
+2025-05-04;2025-05;Warszawa;WAW/2025/00108;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-05-05;2025-05;Gdańsk;GDA-0149;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-05;2025-05;Gdańsk;GDA-0201;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-05-05;2025-05;Kraków;;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-05-05;2025-05;Warszawa;WAW/2025/00351;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-05-06;2025-05;Gdańsk;GDA-0063;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-05-06;2025-05;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-05-06;2025-05;Kraków;;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;59,0;59,0;nie;59,0
+2025-05-06;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-06;2025-05;Warszawa;WAW/2025/00013;AKC-005;Kubek termiczny 350 ml;Akcesoria;2;50,15;59,0;tak;100,3
+2025-05-06;2025-05;Warszawa;WAW/2025/00138;AKC-050;;Brak w katalogu;4;55,0;;nie;220,0
+2025-05-06;2025-05;Warszawa;WAW/2025/00216;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-05-06;2025-05;Warszawa;WAW/2025/00267;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-05-06;2025-05;Warszawa;WAW/2025/00270;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-05-06;2025-05;Warszawa;WAW/2025/00394;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-05-07;2025-05;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;39,0;39,0;nie;117,0
+2025-05-07;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-05-07;2025-05;Kraków;;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-05-07;2025-05;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;4;36,0;36,0;nie;144,0
+2025-05-07;2025-05;Warszawa;WAW/2025/00154;AKC-001;Drip V60 ceramiczny;Akcesoria;4;119,0;119,0;nie;476,0
+2025-05-07;2025-05;Warszawa;WAW/2025/00328;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-05-07;2025-05;Warszawa;WAW/2025/00370;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-05-07;2025-05;Warszawa;WAW/2025/00413;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-08;2025-05;Kraków;;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-05-08;2025-05;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-05-08;2025-05;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;39,0;39,0;nie;117,0
+2025-05-08;2025-05;Warszawa;WAW/2025/00129;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-05-08;2025-05;Warszawa;WAW/2025/00362;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-05-08;2025-05;Warszawa;WAW/2025/00448;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;3;149,0;149,0;nie;447,0
+2025-05-08;2025-05;Warszawa;WAW/2025/00452;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-05-08;2025-05;Warszawa;WAW/2025/00456;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-05-09;2025-05;Gdańsk;GDA-0070;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;99,0;99,0;nie;297,0
+2025-05-09;2025-05;Gdańsk;GDA-0124;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;4;41,65;49,0;tak;166,6
+2025-05-09;2025-05;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;99,0;99,0;nie;297,0
+2025-05-09;2025-05;Warszawa;WAW/2025/00054;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;3;42,0;42,0;nie;126,0
+2025-05-09;2025-05;Warszawa;WAW/2025/00209;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-10;2025-05;Gdańsk;GDA-0075;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;84,15;99,0;tak;252,45
+2025-05-10;2025-05;Gdańsk;GDA-0204;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-05-10;2025-05;Gdańsk;GDA-0291;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-05-10;2025-05;Warszawa;WAW/2025/00084;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-10;2025-05;Warszawa;WAW/2025/00092;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-10;2025-05;Warszawa;WAW/2025/00098;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;27,2;32,0;tak;54,4
+2025-05-10;2025-05;Warszawa;WAW/2025/00198;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-05-11;2025-05;Gdańsk;GDA-0019;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-05-11;2025-05;Gdańsk;GDA-0141;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-05-11;2025-05;Gdańsk;GDA-0199;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-05-11;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;80,75;95,0;tak;80,75
+2025-05-11;2025-05;Warszawa;WAW/2025/00324;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-05-11;2025-05;Warszawa;WAW/2025/00472;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-11;2025-05;Warszawa;WAW/2025/00513;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-05-12;2025-05;Gdańsk;GDA-0004;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-05-12;2025-05;Gdańsk;GDA-0100;HER-002;Herbata zielona Sencha 100 g;Herbata;6;29,0;29,0;nie;174,0
+2025-05-12;2025-05;Kraków;;AKC-005;Kubek termiczny 350 ml;Akcesoria;4;59,0;59,0;nie;236,0
+2025-05-12;2025-05;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-05-12;2025-05;Warszawa;WAW/2025/00025;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-05-12;2025-05;Warszawa;WAW/2025/00268;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-05-12;2025-05;Warszawa;WAW/2025/00395;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-05-12;2025-05;Warszawa;WAW/2025/00433;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;4;42,0;42,0;nie;168,0
+2025-05-13;2025-05;Gdańsk;GDA-0026;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-05-13;2025-05;Gdańsk;GDA-0171;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-05-13;2025-05;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;34,0;34,0;nie;102,0
+2025-05-14;2025-05;Gdańsk;GDA-0036;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-05-14;2025-05;Warszawa;WAW/2025/00223;HER-006;Matcha ceremonialna 30 g;Herbata;6;69,0;69,0;nie;414,0
+2025-05-14;2025-05;Warszawa;WAW/2025/00246;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-05-14;2025-05;Warszawa;WAW/2025/00280;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-14;2025-05;Warszawa;WAW/2025/00367;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-05-14;2025-05;Warszawa;WAW/2025/00431;KAW-099;;Brak w katalogu;1;55,0;;nie;55,0
+2025-05-14;2025-05;Warszawa;WAW/2025/00506;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-05-15;2025-05;Gdańsk;GDA-0147;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-05-15;2025-05;Gdańsk;GDA-0298;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-05-15;2025-05;Kraków;;AKC-004;French press 1 l;Akcesoria;2;79,0;79,0;nie;158,0
+2025-05-15;2025-05;Warszawa;WAW/2025/00422;AKC-006;Waga kuchenna z timerem;Akcesoria;1;84,15;99,0;tak;84,15
+2025-05-15;2025-05;Warszawa;WAW/2025/00511;AKC-004;French press 1 l;Akcesoria;4;79,0;79,0;nie;316,0
+2025-05-16;2025-05;Gdańsk;GDA-0263;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;6;89,0;89,0;nie;534,0
+2025-05-16;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-16;2025-05;Warszawa;WAW/2025/00139;AKC-006;Waga kuchenna z timerem;Akcesoria;1;99,0;99,0;nie;99,0
+2025-05-16;2025-05;Warszawa;WAW/2025/00222;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-05-16;2025-05;Warszawa;WAW/2025/00462;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-17;2025-05;Gdańsk;GDA-0136;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-05-17;2025-05;Gdańsk;GDA-0175;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-17;2025-05;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;6;69,0;69,0;nie;414,0
+2025-05-17;2025-05;Kraków;;AKC-001;Drip V60 ceramiczny;Akcesoria;4;101,15;119,0;tak;404,6
+2025-05-17;2025-05;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-05-17;2025-05;Warszawa;WAW/2025/00009;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-05-18;2025-05;Kraków;;AKC-003;Młynek ręczny stalowy;Akcesoria;2;189,0;189,0;nie;378,0
+2025-05-18;2025-05;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-05-18;2025-05;Warszawa;WAW/2025/00146;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-05-20;2025-05;Gdańsk;GDA-0131;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-05-20;2025-05;Gdańsk;GDA-0235;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;35,7;42,0;tak;71,4
+2025-05-20;2025-05;Gdańsk;GDA-0251;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;3;39,0;39,0;nie;117,0
+2025-05-20;2025-05;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-20;2025-05;Warszawa;WAW/2025/00273;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-05-20;2025-05;Warszawa;WAW/2025/00516;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;59,0;59,0;nie;59,0
+2025-05-21;2025-05;Gdańsk;GDA-0034;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-05-21;2025-05;Gdańsk;GDA-0146;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;6;33,15;39,0;tak;198,9
+2025-05-21;2025-05;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-05-21;2025-05;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-05-21;2025-05;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;6;99,0;99,0;nie;594,0
+2025-05-21;2025-05;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;6;42,0;42,0;nie;252,0
+2025-05-21;2025-05;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-05-21;2025-05;Warszawa;WAW/2025/00008;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-05-21;2025-05;Warszawa;WAW/2025/00049;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-05-21;2025-05;Warszawa;WAW/2025/00126;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-05-22;2025-05;Gdańsk;GDA-0208;HER-001;Herbata czarna Assam 100 g;Herbata;2;24,0;24,0;nie;48,0
+2025-05-22;2025-05;Warszawa;WAW/2025/00124;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;28,9;34,0;tak;57,8
+2025-05-22;2025-05;Warszawa;WAW/2025/00470;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-05-23;2025-05;Gdańsk;GDA-0229;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;3;42,0;42,0;nie;126,0
+2025-05-23;2025-05;Gdańsk;GDA-0260;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-05-23;2025-05;Gdańsk;GDA-0268;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-05-23;2025-05;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;28,9;34,0;tak;28,9
+2025-05-23;2025-05;Warszawa;WAW/2025/00057;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-05-23;2025-05;Warszawa;WAW/2025/00488;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-05-24;2025-05;Gdańsk;GDA-0009;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;35,7;42,0;tak;71,4
+2025-05-24;2025-05;Gdańsk;GDA-0062;HER-001;Herbata czarna Assam 100 g;Herbata;3;24,0;24,0;nie;72,0
+2025-05-24;2025-05;Warszawa;WAW/2025/00062;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-05-24;2025-05;Warszawa;WAW/2025/00206;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-05-24;2025-05;Warszawa;WAW/2025/00460;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-24;2025-05;Warszawa;WAW/2025/00515;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-05-25;2025-05;Gdańsk;GDA-0038;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-05-25;2025-05;Gdańsk;GDA-0086;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-05-25;2025-05;Gdańsk;GDA-0125;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-05-25;2025-05;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;6;49,0;49,0;nie;294,0
+2025-05-25;2025-05;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-25;2025-05;Warszawa;WAW/2025/00004;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;4;95,0;95,0;nie;380,0
+2025-05-25;2025-05;Warszawa;WAW/2025/00339;AKC-004;French press 1 l;Akcesoria;2;67,15;79,0;tak;134,3
+2025-05-26;2025-05;Gdańsk;GDA-0271;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-05-26;2025-05;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-26;2025-05;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-26;2025-05;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-26;2025-05;Warszawa;WAW/2025/00373;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-05-26;2025-05;Warszawa;WAW/2025/00467;HER-002;Herbata zielona Sencha 100 g;Herbata;1;24,65;29,0;tak;24,65
+2025-05-27;2025-05;Gdańsk;GDA-0205;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-05-27;2025-05;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-05-27;2025-05;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-05-28;2025-05;Gdańsk;GDA-0213;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-28;2025-05;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-05-28;2025-05;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-05-28;2025-05;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;2;149,0;149,0;nie;298,0
+2025-05-28;2025-05;Warszawa;WAW/2025/00005;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-05-29;2025-05;Gdańsk;GDA-0096;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-05-29;2025-05;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-05-29;2025-05;Warszawa;WAW/2025/00236;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-05-29;2025-05;Warszawa;WAW/2025/00474;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-05-30;2025-05;Warszawa;WAW/2025/00094;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-05-30;2025-05;Warszawa;WAW/2025/00145;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-05-30;2025-05;Warszawa;WAW/2025/00357;AKC-001;Drip V60 ceramiczny;Akcesoria;2;119,0;119,0;nie;238,0
+2025-05-30;2025-05;Warszawa;WAW/2025/00439;AKC-003;Młynek ręczny stalowy;Akcesoria;4;189,0;189,0;nie;756,0
+2025-05-30;2025-05;Warszawa;WAW/2025/00477;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-05-30;2025-05;Warszawa;WAW/2025/00508;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-31;2025-05;Gdańsk;GDA-0065;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;28,9;34,0;tak;57,8
+2025-05-31;2025-05;Gdańsk;GDA-0098;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;6;95,0;95,0;nie;570,0
+2025-05-31;2025-05;Gdańsk;GDA-0106;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-05-31;2025-05;Gdańsk;GDA-0135;AKC-005;Kubek termiczny 350 ml;Akcesoria;3;59,0;59,0;nie;177,0
+2025-05-31;2025-05;Gdańsk;GDA-0279;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;3;34,0;34,0;nie;102,0
+2025-05-31;2025-05;Gdańsk;GDA-0292;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-05-31;2025-05;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;3;69,0;69,0;nie;207,0
+2025-05-31;2025-05;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;4;95,0;95,0;nie;380,0
+2025-05-31;2025-05;Warszawa;WAW/2025/00093;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-05-31;2025-05;Warszawa;WAW/2025/00232;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-01;2025-06;Gdańsk;GDA-0134;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;3;25,0;25,0;nie;75,0
+2025-06-01;2025-06;Gdańsk;GDA-0276;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-06-01;2025-06;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-06-01;2025-06;Warszawa;WAW/2025/00256;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-06-02;2025-06;Gdańsk;GDA-0155;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-06-02;2025-06;Warszawa;WAW/2025/00095;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-02;2025-06;Warszawa;WAW/2025/00156;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;75,65;89,0;tak;75,65
+2025-06-02;2025-06;Warszawa;WAW/2025/00168;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-06-02;2025-06;Warszawa;WAW/2025/00173;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-06-02;2025-06;Warszawa;WAW/2025/00451;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;3;49,0;49,0;nie;147,0
+2025-06-03;2025-06;Gdańsk;GDA-0166;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-06-03;2025-06;Gdańsk;GDA-0282;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-03;2025-06;Warszawa;WAW/2025/00403;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-06-04;2025-06;Gdańsk;GDA-0014;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-06-04;2025-06;Kraków;;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-06-04;2025-06;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;30,6;36,0;tak;30,6
+2025-06-04;2025-06;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-06-04;2025-06;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-06-04;2025-06;Warszawa;WAW/2025/00358;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-05;2025-06;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-06-05;2025-06;Warszawa;WAW/2025/00076;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-06-05;2025-06;Warszawa;WAW/2025/00166;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-06-05;2025-06;Warszawa;WAW/2025/00172;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-06-05;2025-06;Warszawa;WAW/2025/00315;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-06-05;2025-06;Warszawa;WAW/2025/00356;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-06-06;2025-06;Gdańsk;GDA-0158;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;3;42,0;42,0;nie;126,0
+2025-06-06;2025-06;Gdańsk;GDA-0259;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-06-06;2025-06;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-06-06;2025-06;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-06;2025-06;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-06;2025-06;Warszawa;WAW/2025/00048;AKC-006;Waga kuchenna z timerem;Akcesoria;1;99,0;99,0;nie;99,0
+2025-06-07;2025-06;Gdańsk;GDA-0061;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-06-07;2025-06;Gdańsk;GDA-0185;AKC-004;French press 1 l;Akcesoria;2;79,0;79,0;nie;158,0
+2025-06-07;2025-06;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-06-07;2025-06;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-06-07;2025-06;Warszawa;WAW/2025/00215;HER-005;Yerba Mate Klasyczna 500 g;Herbata;6;32,0;32,0;nie;192,0
+2025-06-07;2025-06;Warszawa;WAW/2025/00218;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-06-08;2025-06;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-06-08;2025-06;Kraków;;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-06-08;2025-06;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-08;2025-06;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-06-08;2025-06;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-06-08;2025-06;Warszawa;WAW/2025/00056;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-08;2025-06;Warszawa;WAW/2025/00096;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-06-08;2025-06;Warszawa;WAW/2025/00202;AKC-001;Drip V60 ceramiczny;Akcesoria;3;119,0;119,0;nie;357,0
+2025-06-08;2025-06;Warszawa;WAW/2025/00203;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-06-08;2025-06;Warszawa;WAW/2025/00279;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-06-08;2025-06;Warszawa;WAW/2025/00350;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-08;2025-06;Warszawa;WAW/2025/00388;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-06-09;2025-06;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-09;2025-06;Kraków;;KAW-099;;Brak w katalogu;1;46,75;;nie;46,75
+2025-06-09;2025-06;Warszawa;WAW/2025/00070;AKC-005;Kubek termiczny 350 ml;Akcesoria;4;59,0;59,0;nie;236,0
+2025-06-09;2025-06;Warszawa;WAW/2025/00309;HER-002;Herbata zielona Sencha 100 g;Herbata;4;29,0;29,0;nie;116,0
+2025-06-10;2025-06;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;75,65;89,0;tak;151,3
+2025-06-10;2025-06;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-06-10;2025-06;Warszawa;WAW/2025/00097;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;4;34,0;34,0;nie;136,0
+2025-06-10;2025-06;Warszawa;WAW/2025/00101;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-10;2025-06;Warszawa;WAW/2025/00229;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-10;2025-06;Warszawa;WAW/2025/00241;AKC-001;Drip V60 ceramiczny;Akcesoria;2;119,0;119,0;nie;238,0
+2025-06-10;2025-06;Warszawa;WAW/2025/00430;AKC-003;Młynek ręczny stalowy;Akcesoria;1;189,0;189,0;nie;189,0
+2025-06-10;2025-06;Warszawa;WAW/2025/00499;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-06-10;2025-06;Warszawa;WAW/2025/00502;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-06-11;2025-06;Gdańsk;GDA-0013;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-06-11;2025-06;Kraków;;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-06-11;2025-06;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;84,15;99,0;tak;84,15
+2025-06-11;2025-06;Warszawa;WAW/2025/00224;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-06-11;2025-06;Warszawa;WAW/2025/00285;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;2;89,0;89,0;nie;178,0
+2025-06-11;2025-06;Warszawa;WAW/2025/00465;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-11;2025-06;Warszawa;WAW/2025/00505;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-12;2025-06;Kraków;;AKC-050;;Brak w katalogu;2;55,0;;nie;110,0
+2025-06-12;2025-06;Warszawa;WAW/2025/00027;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-06-12;2025-06;Warszawa;WAW/2025/00037;HER-005;Yerba Mate Klasyczna 500 g;Herbata;3;32,0;32,0;nie;96,0
+2025-06-12;2025-06;Warszawa;WAW/2025/00259;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-06-12;2025-06;Warszawa;WAW/2025/00303;HER-002;Herbata zielona Sencha 100 g;Herbata;3;29,0;29,0;nie;87,0
+2025-06-12;2025-06;Warszawa;WAW/2025/00316;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-06-13;2025-06;Gdańsk;GDA-0037;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-06-13;2025-06;Warszawa;WAW/2025/00100;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-06-13;2025-06;Warszawa;WAW/2025/00234;HER-002;Herbata zielona Sencha 100 g;Herbata;3;29,0;29,0;nie;87,0
+2025-06-13;2025-06;Warszawa;WAW/2025/00283;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-14;2025-06;Gdańsk;GDA-0212;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-14;2025-06;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-06-14;2025-06;Kraków;;AKC-005;Kubek termiczny 350 ml;Akcesoria;2;59,0;59,0;nie;118,0
+2025-06-14;2025-06;Warszawa;WAW/2025/00035;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-06-14;2025-06;Warszawa;WAW/2025/00065;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;6;42,0;42,0;nie;252,0
+2025-06-14;2025-06;Warszawa;WAW/2025/00197;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;4;39,0;39,0;nie;156,0
+2025-06-14;2025-06;Warszawa;WAW/2025/00240;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-06-14;2025-06;Warszawa;WAW/2025/00255;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-06-14;2025-06;Warszawa;WAW/2025/00288;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-06-14;2025-06;Warszawa;WAW/2025/00343;AKC-001;Drip V60 ceramiczny;Akcesoria;1;119,0;119,0;nie;119,0
+2025-06-15;2025-06;Gdańsk;GDA-0182;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-06-15;2025-06;Gdańsk;GDA-0214;HER-006;Matcha ceremonialna 30 g;Herbata;4;58,65;69,0;tak;234,6
+2025-06-15;2025-06;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-06-15;2025-06;Kraków;;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-06-15;2025-06;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-06-15;2025-06;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;3;42,0;42,0;nie;126,0
+2025-06-15;2025-06;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-15;2025-06;Kraków;;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;2;99,0;99,0;nie;198,0
+2025-06-15;2025-06;Warszawa;WAW/2025/00143;AKC-005;Kubek termiczny 350 ml;Akcesoria;1;59,0;59,0;nie;59,0
+2025-06-15;2025-06;Warszawa;WAW/2025/00149;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;4;49,0;49,0;nie;196,0
+2025-06-15;2025-06;Warszawa;WAW/2025/00287;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;3;95,0;95,0;nie;285,0
+2025-06-15;2025-06;Warszawa;WAW/2025/00353;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-06-16;2025-06;Gdańsk;GDA-0265;HER-002;Herbata zielona Sencha 100 g;Herbata;1;29,0;29,0;nie;29,0
+2025-06-16;2025-06;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-06-16;2025-06;Kraków;;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-06-16;2025-06;Warszawa;WAW/2025/00083;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-06-17;2025-06;Gdańsk;GDA-0052;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-17;2025-06;Gdańsk;GDA-0069;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-06-17;2025-06;Gdańsk;GDA-0145;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-17;2025-06;Gdańsk;GDA-0163;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-06-17;2025-06;Kraków;;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-06-17;2025-06;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-17;2025-06;Kraków;;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-06-17;2025-06;Warszawa;WAW/2025/00127;HER-002;Herbata zielona Sencha 100 g;Herbata;2;29,0;29,0;nie;58,0
+2025-06-17;2025-06;Warszawa;WAW/2025/00243;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-06-17;2025-06;Warszawa;WAW/2025/00337;KAW-099;;Brak w katalogu;2;55,0;;nie;110,0
+2025-06-18;2025-06;Gdańsk;GDA-0138;KAW-007;Kapsułki Lungo 30 szt.;Kawa;2;36,0;36,0;nie;72,0
+2025-06-18;2025-06;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-18;2025-06;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-06-18;2025-06;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-18;2025-06;Warszawa;WAW/2025/00103;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;3;19,0;19,0;nie;57,0
+2025-06-18;2025-06;Warszawa;WAW/2025/00333;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-18;2025-06;Warszawa;WAW/2025/00342;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;1;99,0;99,0;nie;99,0
+2025-06-19;2025-06;Gdańsk;GDA-0119;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-19;2025-06;Gdańsk;GDA-0120;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;80,75;95,0;tak;161,5
+2025-06-19;2025-06;Gdańsk;GDA-0228;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;4;95,0;95,0;nie;380,0
+2025-06-19;2025-06;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-19;2025-06;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-06-19;2025-06;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-19;2025-06;Warszawa;WAW/2025/00044;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-19;2025-06;Warszawa;WAW/2025/00276;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;2;49,0;49,0;nie;98,0
+2025-06-19;2025-06;Warszawa;WAW/2025/00292;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-19;2025-06;Warszawa;WAW/2025/00336;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;4;89,0;89,0;nie;356,0
+2025-06-20;2025-06;Gdańsk;GDA-0092;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-20;2025-06;Gdańsk;GDA-0288;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-06-20;2025-06;Warszawa;WAW/2025/00067;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;1;42,0;42,0;nie;42,0
+2025-06-20;2025-06;Warszawa;WAW/2025/00087;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-06-20;2025-06;Warszawa;WAW/2025/00178;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;1;19,0;19,0;nie;19,0
+2025-06-20;2025-06;Warszawa;WAW/2025/00186;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-06-20;2025-06;Warszawa;WAW/2025/00250;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-20;2025-06;Warszawa;WAW/2025/00257;HER-006;Matcha ceremonialna 30 g;Herbata;4;69,0;69,0;nie;276,0
+2025-06-21;2025-06;Gdańsk;GDA-0058;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-21;2025-06;Gdańsk;GDA-0095;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-21;2025-06;Warszawa;WAW/2025/00064;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;4;42,0;42,0;nie;168,0
+2025-06-21;2025-06;Warszawa;WAW/2025/00379;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
+2025-06-21;2025-06;Warszawa;WAW/2025/00427;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-06-21;2025-06;Warszawa;WAW/2025/00518;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;28,9;34,0;tak;57,8
+2025-06-22;2025-06;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-06-22;2025-06;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;1;32,0;32,0;nie;32,0
+2025-06-22;2025-06;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-22;2025-06;Warszawa;WAW/2025/00109;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-06-23;2025-06;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;2;69,0;69,0;nie;138,0
+2025-06-23;2025-06;Warszawa;WAW/2025/00500;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-06-24;2025-06;Kraków;;HER-005;Yerba Mate Klasyczna 500 g;Herbata;2;32,0;32,0;nie;64,0
+2025-06-24;2025-06;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;2;39,0;39,0;nie;78,0
+2025-06-24;2025-06;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-24;2025-06;Kraków;;AKC-002;Filtry papierowe V60 100 szt.;Akcesoria;1;25,0;25,0;nie;25,0
+2025-06-24;2025-06;Warszawa;WAW/2025/00007;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-24;2025-06;Warszawa;WAW/2025/00026;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-24;2025-06;Warszawa;WAW/2025/00099;HER-002;Herbata zielona Sencha 100 g;Herbata;1;24,65;29,0;tak;24,65
+2025-06-24;2025-06;Warszawa;WAW/2025/00425;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-25;2025-06;Gdańsk;GDA-0287;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;1;34,0;34,0;nie;34,0
+2025-06-25;2025-06;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-25;2025-06;Kraków;;HER-006;Matcha ceremonialna 30 g;Herbata;1;69,0;69,0;nie;69,0
+2025-06-26;2025-06;Gdańsk;GDA-0261;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-26;2025-06;Kraków;;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;3;149,0;149,0;nie;447,0
+2025-06-26;2025-06;Warszawa;WAW/2025/00464;AKC-004;French press 1 l;Akcesoria;6;79,0;79,0;nie;474,0
+2025-06-27;2025-06;Gdańsk;GDA-0169;KAW-099;;Brak w katalogu;1;55,0;;nie;55,0
+2025-06-27;2025-06;Kraków;;HER-001;Herbata czarna Assam 100 g;Herbata;1;24,0;24,0;nie;24,0
+2025-06-27;2025-06;Kraków;;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;6;95,0;95,0;nie;570,0
+2025-06-27;2025-06;Warszawa;WAW/2025/00033;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-06-27;2025-06;Warszawa;WAW/2025/00060;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-27;2025-06;Warszawa;WAW/2025/00510;AKC-007;Czajnik z gęsią szyjką 1 l;Akcesoria;1;149,0;149,0;nie;149,0
+2025-06-27;2025-06;Warszawa;WAW/2025/00512;HER-003;Herbata biała Pai Mu Tan 50 g;Herbata;2;34,0;34,0;nie;68,0
+2025-06-28;2025-06;Gdańsk;GDA-0091;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-06-28;2025-06;Kraków;;KAW-007;Kapsułki Lungo 30 szt.;Kawa;3;36,0;36,0;nie;108,0
+2025-06-28;2025-06;Kraków;;KAW-005;Kawa bezkofeinowa Meksyk 250 g;Kawa;1;39,0;39,0;nie;39,0
+2025-06-28;2025-06;Warszawa;WAW/2025/00300;KAW-007;Kapsułki Lungo 30 szt.;Kawa;1;36,0;36,0;nie;36,0
+2025-06-29;2025-06;Gdańsk;GDA-0057;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;1;89,0;89,0;nie;89,0
+2025-06-29;2025-06;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;1;49,0;49,0;nie;49,0
+2025-06-29;2025-06;Warszawa;WAW/2025/00141;HER-004;Herbata owocowa Malina-Żurawina 100 g;Herbata;2;19,0;19,0;nie;38,0
+2025-06-29;2025-06;Warszawa;WAW/2025/00269;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;2;42,0;42,0;nie;84,0
+2025-06-29;2025-06;Warszawa;WAW/2025/00319;KAW-006;Kawa ziarnista Gwatemala Antigua 1 kg;Kawa;3;99,0;99,0;nie;297,0
+2025-06-30;2025-06;Gdańsk;GDA-0284;AKC-004;French press 1 l;Akcesoria;1;79,0;79,0;nie;79,0
+2025-06-30;2025-06;Kraków;;KAW-004;Kawa mielona Espresso Blend 500 g;Kawa;4;49,0;49,0;nie;196,0
+2025-06-30;2025-06;Warszawa;WAW/2025/00085;KAW-002;Kawa ziarnista Etiopia Yirgacheffe 250 g;Kawa;6;42,0;42,0;nie;252,0
+2025-06-30;2025-06;Warszawa;WAW/2025/00148;KAW-001;Kawa ziarnista Brazylia Santos 1 kg;Kawa;3;89,0;89,0;nie;267,0
+2025-06-30;2025-06;Warszawa;WAW/2025/00487;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;2;95,0;95,0;nie;190,0
+2025-06-30;2025-06;Warszawa;WAW/2025/00501;KAW-003;Kawa ziarnista Kolumbia Supremo 1 kg;Kawa;1;95,0;95,0;nie;95,0
